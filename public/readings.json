@@ -1,5 +1,6 @@
 [
   {
+    "id": "894f7b61-e6b1-40af-b2bf-464cc97321b5",
     "title": "2020",
     "author": "חמוטל שבתאי",
     "authorSex": "נקבה",
@@ -39,6 +40,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f8724ad4-0af2-4ff8-92e2-9683387eca4a",
     "title": "2020",
     "author": "חמוטל שבתאי",
     "authorSex": "נקבה",
@@ -78,6 +80,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "903ac808-a512-4813-ba64-9e445de89e09",
     "title": "24 דלתות",
     "author": "גיל חובב",
     "authorSex": "זכר",
@@ -117,6 +120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "6f6d4824-dc0a-49c7-9497-77d9e6f46d4a",
     "title": "8000 מיל מתחת למות",
     "author": "י. מעוז",
     "authorSex": "לא ידוע",
@@ -156,6 +160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "59e90622-57e4-4c50-a9ba-27393b707e3d",
     "title": "אבא, בן, סבתא דינה",
     "author": "יוסף בר יוסף",
     "authorSex": "זכר",
@@ -195,6 +200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b434a0bd-0b1a-42bf-acf7-9af50497c5bf",
     "title": "אבדות",
     "author": "לאה גולדברג",
     "authorSex": "נקבה",
@@ -234,6 +240,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "4e34b50f-0e36-4e99-b0d9-eb1bd8926137",
     "title": "אבישג",
     "author": "דוד שיץ",
     "authorSex": "זכר",
@@ -273,6 +280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "80b77773-0b8e-4b7b-8af3-dc6901d41e65",
     "title": "אבישג",
     "author": "דוד שיץ",
     "authorSex": "זכר",
@@ -312,6 +320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f10f88eb-1633-471f-a498-caf5503291ea",
     "title": "אבל הלילה עוד צעיר",
     "author": "ליאת אלקיים",
     "authorSex": "נקבה",
@@ -351,6 +360,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "d0e55fcc-1c82-432d-997d-52950684a4b2",
     "title": "אבן על פי הבאר",
     "author": "נתן שחם",
     "authorSex": "זכר",
@@ -390,6 +400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ba9f00b9-26a7-4b6f-9ab8-87ceed9412ac",
     "title": "אבן תחת אבן",
     "author": "בתיה גור",
     "authorSex": "נקבה",
@@ -429,6 +440,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "9e769063-8809-4661-8dfa-11f34f330413",
     "title": "אבני ריחיים",
     "author": "דנה אמיר",
     "authorSex": "נקבה",
@@ -468,6 +480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "17eb1232-2b10-4c4f-aaf3-d512e14ac684",
     "title": "אגדת ברונו ואדלה",
     "author": "אמיר גוטפרוינד",
     "authorSex": "זכר",
@@ -507,6 +520,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "718774c8-09aa-4188-ba57-ac8ff0fff6a0",
     "title": "אגם הצללים",
     "author": "רוני גלבפיש",
     "authorSex": "נקבה",
@@ -546,6 +560,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "383a4757-33b3-4535-9fef-df8e16380b58",
     "title": "אדם בן כלב",
     "author": "יורם קניוק",
     "authorSex": "זכר",
@@ -585,6 +600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "d1711eea-1162-4edb-b162-08d4deedfeae",
     "title": "אהבה",
     "author": "מעין איתן",
     "authorSex": "נקבה",
@@ -624,6 +640,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "b0b1db6b-2d67-4c06-ba20-5302f8935139",
     "title": "אהבה יד ראשונה",
     "author": "מירה מגן",
     "authorSex": "נקבה",
@@ -663,6 +680,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "2ea707a4-f3ba-49fb-b725-baa648b35003",
     "title": "אהבה שמיים וריח הדרים",
     "author": "מירה קדר",
     "authorSex": "נקבה",
@@ -702,6 +720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "55f1c0eb-a032-4a0d-b711-91779f6897e5",
     "title": "אהבת איתמר בן אבי",
     "author": "דבורה עומר",
     "authorSex": "נקבה",
@@ -741,6 +760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "c9e53497-67ff-481a-9961-76235e078746",
     "title": "אהבת ישרים או המשפחות המורדפות",
     "author": "שרה פייגה מיינקין",
     "authorSex": "נקבה",
@@ -780,6 +800,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "1388b5e5-4648-4740-b7da-72f9ed66988b",
     "title": "אהבת ציון",
     "author": "אברהם מאפו",
     "authorSex": "זכר",
@@ -819,6 +840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "243948c6-722f-4863-8967-f07dc1257397",
     "title": "אהבתה של סלטנאת",
     "author": "שרה אהרוני",
     "authorSex": "נקבה",
@@ -858,6 +880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b0b95ab1-ece9-4102-9d3c-917a8dc58ebc",
     "title": "אונה",
     "author": "דורית פלג",
     "authorSex": "נקבה",
@@ -897,6 +920,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "9832a164-0781-495b-a6f1-ff7fbc6099ee",
     "title": "אונה",
     "author": "דורית פלג",
     "authorSex": "נקבה",
@@ -936,6 +960,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "239c33ef-cea7-4b39-be17-774b8cf14463",
     "title": "אורי",
     "author": "אסתר שטרייט-וורצל",
     "authorSex": "נקבה",
@@ -975,6 +1000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "80867f41-2371-48ab-b7e8-cae7a9e03bfa",
     "title": "אורי",
     "author": "אסתר שטרייט וורצל",
     "authorSex": "נקבה",
@@ -1014,6 +1040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "0bad6139-71e6-4906-9727-ba216a05a9cc",
     "title": "אורי",
     "author": "אסתר שטרייט וורצל",
     "authorSex": "נקבה",
@@ -1053,6 +1080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5db70f39-4b2b-4928-8273-5aa1e6d066bd",
     "title": "אורנים",
     "author": "ימימה חובב",
     "authorSex": "נקבה",
@@ -1092,6 +1120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "262e3405-34f7-4b3c-81fe-e7017afe8cf1",
     "title": "אושר פתאומי",
     "author": "איריס לעאל",
     "authorSex": "נקבה",
@@ -1131,6 +1160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "c61abd86-bf76-43a1-ac91-9228aec3fd24",
     "title": "אותה האהבה, כמעט",
     "author": "מירי רוזובסקי",
     "authorSex": "נקבה",
@@ -1170,6 +1200,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "c2b4c475-b234-45bd-ae25-4353bf1c7190",
     "title": "אותיות השמש אותיות הירח",
     "author": "איתמר לוי",
     "authorSex": "זכר",
@@ -1209,6 +1240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "013f4637-6e15-4bae-b74a-3c6e407ab112",
     "title": "אותיות השמש אותיות הירח",
     "author": "איתמר לוי",
     "authorSex": "זכר",
@@ -1248,6 +1280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "2f0fe892-ac62-4cc8-94c6-1f0b2a0a4796",
     "title": "אחוזת דג'אני",
     "author": "אלון חילו",
     "authorSex": "זכר",
@@ -1287,6 +1320,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "2177ca3c-8123-4e3a-905c-9f5aa78f33d1",
     "title": "אחרי החגים",
     "author": "יהושע קנז",
     "authorSex": "זכר",
@@ -1326,6 +1360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "07a66e1f-2643-484a-8306-037f533340da",
     "title": "אחרי המעשים",
     "author": "נתנאלה שלזנגר",
     "authorSex": "נקבה",
@@ -1365,6 +1400,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "064cf413-a3ab-464f-b7ad-4753c6f0104a",
     "title": "אטיודים למורגנה",
     "author": "איתמר לוי",
     "authorSex": "זכר",
@@ -1404,6 +1440,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "edd21c79-ffd9-416a-9c66-843f43277f35",
     "title": "איך לאהוב את ביתך",
     "author": "הילה בלום",
     "authorSex": "נקבה",
@@ -1443,6 +1480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f1fabf34-2422-42ae-b356-d6766f3ac740",
     "title": "איך לאהוב את ביתך",
     "author": "הילה בלום",
     "authorSex": "נקבה",
@@ -1482,6 +1520,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "4b6dd211-d0fc-4091-b0e4-35902e27055e",
     "title": "איך לאהוב את ביתך",
     "author": "הילה בלום",
     "authorSex": "נקבה",
@@ -1521,6 +1560,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d7ffca6d-a2c5-4846-b1e2-2a5c540f7076",
     "title": "איך לאהוב את ביתך",
     "author": "הילה בלום",
     "authorSex": "נקבה",
@@ -1560,6 +1600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "b2fd6a92-502a-4a80-adbb-4597aa51a25d",
     "title": "איך לאהוב את בתך",
     "author": "הילה בלום",
     "authorSex": "נקבה",
@@ -1599,6 +1640,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "64174bb5-96b0-4071-baa7-4a62f9cf96b1",
     "title": "איך לאהוב את בתך",
     "author": "הילה בלום",
     "authorSex": "נקבה",
@@ -1638,6 +1680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "2abcb1e0-4552-425c-9241-e8b8390f7984",
     "title": "איך לאהוב את בתך",
     "author": "הילה בלום",
     "authorSex": "נקבה",
@@ -1677,6 +1720,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "40eaf7b3-b323-450d-86ea-951511935f86",
     "title": "איך לאהוב את בתך",
     "author": "הילה בלום",
     "authorSex": "נקבה",
@@ -1716,6 +1760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "cad948d4-5ff7-44d9-a630-37e03f03d78b",
     "title": "איך ללטף קיפוד",
     "author": "מור אסאל",
     "authorSex": "נקבה",
@@ -1755,6 +1800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a38135fc-61e0-4b5a-8972-ed1a147245f8",
     "title": "איך ניצחתי במלחמה",
     "author": "רקפת זהר",
     "authorSex": "נקבה",
@@ -1794,6 +1840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "183a48a5-a675-4bb5-aa1b-42030a0f0cb9",
     "title": "אין א ריליישנשיפ",
     "author": "תמר בלומנפלד",
     "authorSex": "נקבה",
@@ -1833,6 +1880,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "536cc622-9b83-4b88-84e5-e7eed9e7fe0f",
     "title": "אין לי מספיק מילים בגוף",
     "author": "דרור שגב",
     "authorSex": "זכר",
@@ -1872,6 +1920,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "a0fd9835-b00b-42ea-801f-cc0aa461f550",
     "title": "אין סודות בחברה",
     "author": "יונתן שגיב",
     "authorSex": "זכר",
@@ -1911,6 +1960,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "257ea0a4-9740-4e62-92db-7895ab9f577e",
     "title": "איש אחד נכנס לבר",
     "author": "דויד גרוסמן",
     "authorSex": "זכר",
@@ -1950,6 +2000,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "0e60b9ff-f30d-4a6b-b4f2-978e4c40434f",
     "title": "אישה מעבר לים",
     "author": "שרית ישי-לוי",
     "authorSex": "נקבה",
@@ -1989,6 +2040,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "72d7346e-d336-40a0-8696-6151fe74ade5",
     "title": "אישראל",
     "author": "נאווה סמל",
     "authorSex": "נקבה",
@@ -2028,6 +2080,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "bb5cc01f-9fa6-44a3-846f-e664be7f172d",
     "title": "איתי החיים משחק הרבה",
     "author": "דויד גרוסמן",
     "authorSex": "זכר",
@@ -2067,6 +2120,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "0aaf09fd-b9f2-4f08-9457-0b6d9cd17e8d",
     "title": "אל המקום הטוב ובחזרה",
     "author": "עדי ברוקס",
     "authorSex": "נקבה",
@@ -2106,6 +2160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "420609e0-4fcd-4363-96db-577951900d72",
     "title": "אל מקום שהרוח הולך",
     "author": "חיים באר",
     "authorSex": "זכר",
@@ -2145,6 +2200,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "57a04205-7466-4724-a44f-7188c31d78c1",
     "title": "אל תספר לאחיך",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -2184,6 +2240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "674fb6f2-a671-4a27-97a4-a3e526fd3fbc",
     "title": "אל תספר לאחיך",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -2223,6 +2280,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "65ee7175-448c-42d1-9ea0-44a936568960",
     "title": "אל תספר לאחיך",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -2262,6 +2320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a5efe416-dd08-4128-8527-71ef47497526",
     "title": "אל תספר לאחיך",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -2301,6 +2360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "778ca798-c4ee-4f04-a4e6-205eb4f0297c",
     "title": "אל תספר לאחיך",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -2340,6 +2400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "66164258-c01f-4ec0-b093-2d526b595878",
     "title": "אליפים",
     "author": "אסתר שטייט וורצל",
     "authorSex": "נקבה",
@@ -2379,6 +2440,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "ef5a53d4-0aa6-4cad-b523-07622d37f56f",
     "title": "אליפים",
     "author": "אסתר שטרייט וורצל",
     "authorSex": "נקבה",
@@ -2418,6 +2480,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "a823af4e-4aa4-47f1-b22c-c824b238a112",
     "title": "אם המושבות",
     "author": "ליעד שוהם",
     "authorSex": "זכר",
@@ -2457,6 +2520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7ba9f736-fbee-441b-a187-399e6f3c738d",
     "title": "אמונה",
     "author": "דרור משעני",
     "authorSex": "זכר",
@@ -2496,6 +2560,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "46148856-5244-470a-816a-31bb308e98e0",
     "title": "אמונה",
     "author": "דרור משעני",
     "authorSex": "זכר",
@@ -2535,6 +2600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "2bc4e5f7-c584-4fd9-9cb2-70a07d11e150",
     "title": "אמזלג",
     "author": "יוסי סוכרי",
     "authorSex": "זכר",
@@ -2574,6 +2640,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "79280725-ff91-4eb2-970b-3dba3e877ec8",
     "title": "אמזלג",
     "author": "יוסי סוכרי",
     "authorSex": "זכר",
@@ -2613,6 +2680,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "1078183b-dcfc-4bb0-92fe-64cbdb6352eb",
     "title": "אמן הסיפור הקצר",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -2652,6 +2720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3ef6bb01-946a-4056-b496-b0b6a696d368",
     "title": "אמן הסיפור הקצר",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -2691,6 +2760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7f5ee6c3-f0be-42e4-a8ba-92276f123110",
     "title": "אנדריאס, איזה יופי, שיחות עם לוקאס",
     "author": "איתמר לוי",
     "authorSex": "זכר",
@@ -2730,6 +2800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "587c5a1f-3cfc-46b5-838e-755d4b012129",
     "title": "אנו ודורנו: רומן",
     "author": "אשר לוין",
     "authorSex": "זכר",
@@ -2769,6 +2840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "be2b1a63-f530-4bee-bbb4-3780bbf3910f",
     "title": "אני ליאונה",
     "author": "גיל הראבן",
     "authorSex": "נקבה",
@@ -2808,6 +2880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "c725583d-4147-4ee6-92a4-5cd39d091a78",
     "title": "אני ליאונה",
     "author": "גיל הראבן",
     "authorSex": "נקבה",
@@ -2847,6 +2920,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "b767a73f-a0bb-477e-b4c5-f53c125238be",
     "title": "אנשים כמונו",
     "author": "נועה ידלין",
     "authorSex": "נקבה",
@@ -2886,6 +2960,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "2455c763-46e5-4997-b8e5-ab3f49530ca9",
     "title": "אנשים כמונו",
     "author": "נעה ידלין",
     "authorSex": "נקבה",
@@ -2925,6 +3000,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "8c39b279-2b1d-49b6-9f28-ee93f258c87d",
     "title": "אנשים כמונו",
     "author": "נעה ידלין",
     "authorSex": "נקבה",
@@ -2964,6 +3040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d0903955-6ffd-4c91-9876-90b13e6efc97",
     "title": "אף אחד לא עוזב את פאלו אלטו",
     "author": "יניב איציקוביץ",
     "authorSex": "זכר",
@@ -3003,6 +3080,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "477812e3-8927-467b-8f9d-295e5604d6fb",
     "title": "אף אחד לא עוזב את פאלו אלטו",
     "author": "יניב איצקוביץ'",
     "authorSex": "זכר",
@@ -3042,6 +3120,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "c7942866-8b7f-4d0b-ba69-dd780adaca4f",
     "title": "אף אחד לא עוזב את פאלו אלטו",
     "author": "יניב איצקוביץ'",
     "authorSex": "זכר",
@@ -3081,6 +3160,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "5ed84d2c-6792-4fe4-99de-9e3ee490dc97",
     "title": "אף אחד לא עוזב את פאלו אלטו",
     "author": "יניב איצקוביץ'",
     "authorSex": "זכר",
@@ -3120,6 +3200,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "c447e630-35a8-432b-a976-4130c63bc6a7",
     "title": "אף אחד לא עוזב את פאלו אלטו",
     "author": "יניב איצקוביץ'",
     "authorSex": "זכר",
@@ -3159,6 +3240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1b0f297c-5cdb-4a25-b7bb-759cb31afcc3",
     "title": "אף אחד לא עוזב את פאלו אלטו",
     "author": "יניב איצקוביץ",
     "authorSex": "זכר",
@@ -3198,6 +3280,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "a7d982e8-bc55-4133-8f59-6ac22a822a14",
     "title": "אף אחד לא עוזב את פאלו אלטו",
     "author": "יניב איצקוביץ'",
     "authorSex": "זכר",
@@ -3237,6 +3320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3607702d-3991-43c7-90bc-b6bac3df6444",
     "title": "אף אחד, אף אחד אינו אוהב",
     "author": "אורה שם-אור",
     "authorSex": "נקבה",
@@ -3276,6 +3360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b2e4a0ee-1b44-41d8-b5c7-a211116474ec",
     "title": "אפשרות של אלימות",
     "author": "דרור משעני",
     "authorSex": "נקבה",
@@ -3315,6 +3400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "06500f37-1d3c-4e4f-918b-1aefdaec527c",
     "title": "אצבעות של פסנתרן",
     "author": "יהלי סובול",
     "authorSex": "זכר",
@@ -3354,6 +3440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "4197bd1c-8792-4ea1-981b-f4bd91617531",
     "title": "ארבע ארצות",
     "author": "מתן חרמוני",
     "authorSex": "זכר",
@@ -3393,6 +3480,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "1bc51913-2546-4966-830f-42a6d928f10b",
     "title": "ארבע מדברות ואחת שותקת",
     "author": "גבריאלה אביגור - רותם",
     "authorSex": "נקבה",
@@ -3432,6 +3520,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "cc3dc6c5-a8be-4f37-8cea-c2b1f097005a",
     "title": "ארבע מדברות ואחת שותקת",
     "author": "גבריאלה אביגור רותם",
     "authorSex": "נקבה",
@@ -3471,6 +3560,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "90cd8984-a1ba-48f0-a1ed-65b4b04ea488",
     "title": "ארבע מדברות ואחת שותקת",
     "author": "גבריאלה אביגור רותם",
     "authorSex": "נקבה",
@@ -3510,6 +3600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "1f6e82ea-b1c3-45a8-a627-6383f4056f11",
     "title": "ארבעה אבות",
     "author": "אמיר זיו",
     "authorSex": "זכר",
@@ -3549,6 +3640,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "a33b59aa-83b5-48e0-be5d-33e1a862fafc",
     "title": "ארבעה בתים וגעגוע",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -3588,6 +3680,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "f3e756df-1047-481c-86fb-e39c39b55711",
     "title": "ארבעה בתים וגעגוע",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -3627,6 +3720,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "f90cb67d-70c2-44b7-bd29-e085fef4cba0",
     "title": "ארזת לבד",
     "author": "אסף שור",
     "authorSex": "זכר",
@@ -3666,6 +3760,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "51adf644-b0bc-442c-b250-c6234a1c6cf8",
     "title": "אריאדנה",
     "author": "שוש בריינר",
     "authorSex": "נקבה",
@@ -3705,6 +3800,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "2a0d38f6-bcd9-491f-aa6a-109e17454644",
     "title": "ארץ עיר ילדה",
     "author": "אביגיל קנטרוביץ",
     "authorSex": "נקבה",
@@ -3744,6 +3840,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "9ab2fb85-0cde-483c-b980-d7497e7ad1f9",
     "title": "אשת הפיראט היהודי",
     "author": "אילן שיינפלד",
     "authorSex": "זכר",
@@ -3783,6 +3880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "550de24d-afd8-46d0-be8f-02818aa1f779",
     "title": "אשתו השנואה",
     "author": "יהודה בורלא",
     "authorSex": "זכר",
@@ -3822,6 +3920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "195772d5-4bb0-475f-9cf1-729bcf94d78f",
     "title": "את כל הילדים בעולם",
     "author": "טל ניצן",
     "authorSex": "נקבה",
@@ -3861,6 +3960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "62440a7b-1f2b-4da3-b8e4-76c8a5cd6313",
     "title": "באהבה, נטליה",
     "author": "רות אלמוג",
     "authorSex": "נקבה",
@@ -3900,6 +4000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d1e3a453-a8c6-4ba6-954a-a0433d1e1d0b",
     "title": "באור חדש",
     "author": "עטאללה מנצור",
     "authorSex": "זכר",
@@ -3939,6 +4040,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "c1f53164-3440-4a9e-8562-12c874d7f609",
     "title": "באין מטרה",
     "author": "ישעיהו ברשדסקי",
     "authorSex": "זכר",
@@ -3978,6 +4080,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "903d054f-8b3b-4694-90fb-8b485e22e93a",
     "title": "בארץ גזירה",
     "author": "רות אלמוג",
     "authorSex": "נקבה",
@@ -4017,6 +4120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ba908170-7a3b-4353-af90-38b959f29f63",
     "title": "בארץ גזירה",
     "author": "רות אלמוג",
     "authorSex": "נקבה",
@@ -4056,6 +4160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5ff43522-07e2-4068-87f7-2f783ebfe274",
     "title": "בביתו במדבר",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -4095,6 +4200,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "df8952d2-89da-4cf6-ada0-068ae4e93d8e",
     "title": "בבת אחת",
     "author": "רבקה רוזנר",
     "authorSex": "נקבה",
@@ -4134,6 +4240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b0252ac4-175f-47d5-b4f9-08828a365bca",
     "title": "בבת אחת",
     "author": "רבקה רוזנר",
     "authorSex": "נקבה",
@@ -4173,6 +4280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "96ed8e1b-2c2c-420d-a251-5a77f7847626",
     "title": "בגד מאש",
     "author": "מיכל בן-נפתלי",
     "authorSex": "נקבה",
@@ -4212,6 +4320,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "e3fb6a5c-0928-4c1e-af1a-26edf6a6d488",
     "title": "בדרך אל החתולים",
     "author": "יהשוע קנז",
     "authorSex": "זכר",
@@ -4251,6 +4360,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "b03aa6b4-b00f-4ed0-b26b-90d97e0cbb7a",
     "title": "בדרך חזרה",
     "author": "יהושע בר-יוסף",
     "authorSex": "זכר",
@@ -4290,6 +4400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "2179942c-083c-4ee0-92f3-8ebe4d7e67eb",
     "title": "בועה בקרקעית הים",
     "author": "דניאל אדר",
     "authorSex": "זכר",
@@ -4329,6 +4440,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "1845900b-ce2f-49cc-997a-d33536c1aacc",
     "title": "בחול",
     "author": "אגור שיף",
     "authorSex": "זכר",
@@ -4368,6 +4480,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "baeaa7db-abb4-465d-9994-6b1de1789e64",
     "title": "בחורף",
     "author": "יוסף חיים ברנר",
     "authorSex": "זכר",
@@ -4407,6 +4520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "94e0f107-8167-4e56-81d3-cdb0cf9c8264",
     "title": "בחזרה מעמק רפאים",
     "author": "חיים באר",
     "authorSex": "זכר",
@@ -4446,6 +4560,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "bbbd5ea5-d1f5-4748-ae6d-1475e1824bf2",
     "title": "בחנותו של מר לובלין",
     "author": "ש\"י עגנון",
     "authorSex": "זכר",
@@ -4485,6 +4600,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "34871125-32aa-4cb9-b1ed-21d2acb78b30",
     "title": "ביום שייגמר הכסף",
     "author": "יותם טולוב",
     "authorSex": "זכר",
@@ -4524,6 +4640,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "5233bac2-9b43-4b6b-9fd3-cec10ad48fa3",
     "title": "בין דירות",
     "author": "יהלי סובול",
     "authorSex": "זכר",
@@ -4563,6 +4680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "6a650cc4-90c3-4fb3-8538-de172e9bb26e",
     "title": "בין הכרמים",
     "author": "יהודית הררי",
     "authorSex": "נקבה",
@@ -4602,6 +4720,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "9e68c424-259a-4f25-bdc6-1767f4a3fe43",
     "title": "בין הכרמים",
     "author": "יהודית הררי",
     "authorSex": "זכר",
@@ -4641,6 +4760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5bf9e7df-1fc4-4423-88fd-e8c8096d4837",
     "title": "בית הנתיבות",
     "author": "זהר אלמקייס",
     "authorSex": "זכר",
@@ -4680,6 +4800,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "047be563-e726-4b6c-a15e-f1d56f92416a",
     "title": "בית הקפה של נורה אפרון",
     "author": "ורד שנבל",
     "authorSex": "נקבה",
@@ -4719,6 +4840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5fbc2c1d-5244-4607-b380-f5410c6929dc",
     "title": "בית חפץ",
     "author": "דב קמחי",
     "authorSex": "זכר",
@@ -4758,6 +4880,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "b52cdf72-7e1f-486e-9686-102bf47af32f",
     "title": "בית מלבין בפרדס",
     "author": "יוסף חנני",
     "authorSex": "זכר",
@@ -4797,6 +4920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "44e04efd-6555-47be-9b25-a18d1d100db0",
     "title": "בית על מים רבים",
     "author": "אמונה אלון",
     "authorSex": "נקבה",
@@ -4836,6 +4960,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "2d31069c-8e3a-405e-b005-76437947ca5d",
     "title": "בלגן נפלא",
     "author": "ורד שנבל",
     "authorSex": "נקבה",
@@ -4875,6 +5000,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "cbd75d59-784b-4f94-bf97-88c0a9cfb584",
     "title": "בלחשש",
     "author": "דורית זילברמן",
     "authorSex": "נקבה",
@@ -4914,6 +5040,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "7007ba76-6fdf-43c6-85cb-b25b955c1275",
     "title": "בלי הקוקו והסרפן",
     "author": "אורה שם-אור",
     "authorSex": "נקבה",
@@ -4953,6 +5080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "708282eb-e050-4589-856f-87681c6ad0ec",
     "title": "במחשכי החיים",
     "author": "חיים נ. חסון",
     "authorSex": "זכר",
@@ -4992,6 +5120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b98ef799-9d97-44a4-9070-e3522233824d",
     "title": "במקום שאין אף אחד",
     "author": "בני שטיינברג",
     "authorSex": "זכר",
@@ -5031,6 +5160,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "a24faae4-f585-48bd-a114-d56cb6fa14c3",
     "title": "בן המקום",
     "author": "חיים הזז",
     "authorSex": "זכר",
@@ -5070,6 +5200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "db5066b8-4e27-4d95-ae2f-3ee6d6fe0c5e",
     "title": "בעת ובעונה אחת",
     "author": "אהרן אפלפלד",
     "authorSex": "זכר",
@@ -5109,6 +5240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "899d9f90-42bb-4e3b-b790-9bab91a5b20f",
     "title": "בצל האימה",
     "author": "צבי וולף",
     "authorSex": "זכר",
@@ -5148,6 +5280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5e61b6e8-d28d-4835-b4c7-97bc15f64ef2",
     "title": "ברוכה הבאה לחיים שלך",
     "author": "נטע חוטר",
     "authorSex": "נקבה",
@@ -5187,6 +5320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "94377dea-71e0-47f4-abef-9a263649192e",
     "title": "ברונז - פנטזיה כנענית",
     "author": "אמיר חרש",
     "authorSex": "זכר",
@@ -5226,6 +5360,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "6c43e5f8-1ae6-411d-a650-83be4e0919d6",
     "title": "ברקיע החמישי",
     "author": "רחל איתן",
     "authorSex": "נקבה",
@@ -5265,6 +5400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "0455c6ee-5582-47c1-8aff-a8d848816fea",
     "title": "בשבח המלחמה",
     "author": "עילי ראונר",
     "authorSex": "זכר",
@@ -5304,6 +5440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e5ae2e72-083f-436b-9509-cc7f144d83ca",
     "title": "בשבח המלחמה",
     "author": "עלי ראונר",
     "authorSex": "זכר",
@@ -5343,6 +5480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "bb6bea47-71bf-4f8f-b763-0ed888c051fd",
     "title": "בשבח המלחמה",
     "author": "עילי ראונר",
     "authorSex": "זכר",
@@ -5382,6 +5520,7 @@
     "grammaticalTense": "קשה להגדיר"
   },
   {
+    "id": "5693af8a-c0be-4573-a9b9-69c1a05eae21",
     "title": "בשבילה גיבורים עפים",
     "author": "אמיר גוטפרוינד",
     "authorSex": "זכר",
@@ -5421,6 +5560,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "5c81612d-4d1c-4629-8369-329bb0214efd",
     "title": "בשורות טובות",
     "author": "שירז אפיק",
     "authorSex": "נקבה",
@@ -5460,6 +5600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "84dbacb7-c2fc-4ed6-bd9e-08a7c541883d",
     "title": "בשם פרפרים",
     "author": "ארנה טאוב וזיו רשמן",
     "authorSex": "אחד זכר, אילו השנייה נקבה",
@@ -5499,6 +5640,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "29695534-3b6f-43e4-8c1e-8bc6974e632a",
     "title": "בשפריר חביון",
     "author": "חיים סבתו",
     "authorSex": "זכר",
@@ -5538,6 +5680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5e920097-dc7f-4868-98e3-44aca55dd063",
     "title": "בתו",
     "author": "יורם קניוק",
     "authorSex": "זכר",
@@ -5577,6 +5720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "0237d4e9-b84e-4eb2-8574-829c678edfcf",
     "title": "גבעה אחת",
     "author": "עמוס מוסינזון",
     "authorSex": "זכר",
@@ -5616,6 +5760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "98f9e776-2442-44b1-a7b3-1eb16ad543f8",
     "title": "גבר נכנס בפרדס",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -5655,6 +5800,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "f0258007-c784-49da-8555-c8cb7d0ea0c4",
     "title": "גבר נכנס בפרדס",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -5694,6 +5840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "eed4e6ab-deea-4ab0-876a-d0c8d9b35200",
     "title": "גבר נכנס בפרדס",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -5733,6 +5880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ef656c67-d4e2-406e-8445-a9b430639341",
     "title": "גבר נכנס לפרדס",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -5772,6 +5920,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "ef2a9a60-b0e7-46a2-a7f8-dad72f1aba69",
     "title": "גדר חיה",
     "author": "דורית רביניאן",
     "authorSex": "נקבה",
@@ -5811,6 +5960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "62ec44c1-b374-4588-8e34-9a9e27089d4c",
     "title": "גדר חיה",
     "author": "דורית רביניאן",
     "authorSex": "נקבה",
@@ -5850,6 +6000,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "c437781a-494a-476b-b3a1-bd6156c045d6",
     "title": "גדרות",
     "author": "רוחמה חזנוב",
     "authorSex": "נקבה",
@@ -5889,6 +6040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "39a4620e-beab-42f4-89e2-7f696500383b",
     "title": "גוג",
     "author": "משה בן אפרים",
     "authorSex": "זכר",
@@ -5928,6 +6080,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "a823ff46-29bf-427d-80f5-9815fe2cdae2",
     "title": "גולם במעגל",
     "author": "לילי פרי",
     "authorSex": "נקבה",
@@ -5967,6 +6120,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "5d88454d-f5a6-449b-9a1e-76289bcc9dea",
     "title": "גיא אוני",
     "author": "שולמית לפיד",
     "authorSex": "נקבה",
@@ -6006,6 +6160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "9c551703-6be4-49cd-bc68-bf979b98dbd1",
     "title": "גירושים מאוחרים",
     "author": "א.ב.יהושע",
     "authorSex": "זכר",
@@ -6045,6 +6200,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "652933ff-9ab9-41be-a644-4e49efa12fdd",
     "title": "גלבי",
     "author": "איריס אליה כהן",
     "authorSex": "נקבה",
@@ -6084,6 +6240,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "ea766a78-f504-4851-b204-ddd65e78b2cc",
     "title": "גמר טוב",
     "author": "יוכי ברנדס",
     "authorSex": "נקבה",
@@ -6123,6 +6280,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "af65f3d5-5376-426e-afb8-3ff3c5cf9a07",
     "title": "גן נעמי",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -6162,6 +6320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "eb37896b-f549-4d85-b34b-fd541c8df20e",
     "title": "גן נעמי",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -6201,6 +6360,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "4b2a5646-d784-4803-abfb-b9915cd2b544",
     "title": "געגועים לאולגה",
     "author": "אהרן מגד",
     "authorSex": "זכר",
@@ -6240,6 +6400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "59ef5c97-7a6d-4d48-85c4-d95c799c0ee4",
     "title": "גרסת הבמאי",
     "author": "אינה איזנברג",
     "authorSex": "נקבה",
@@ -6279,6 +6440,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "7e5ba91e-0eb0-4183-8d04-aa1807c2308f",
     "title": "דבק שקדים או ציאניד",
     "author": "רקפת זהר",
     "authorSex": "נקבה",
@@ -6318,6 +6480,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "dd70b2b5-24b1-47cc-9b68-464c4e71f3e2",
     "title": "דברים נעלמים",
     "author": "נועה גוטר שגיא",
     "authorSex": "נקבה",
@@ -6357,6 +6520,7 @@
     "grammaticalTense": "קשה להגדיר"
   },
   {
+    "id": "b7a0f2ce-920a-43cc-a2a5-b56cdcd78d22",
     "title": "דברים נעלמים",
     "author": "נועה גוטר שגיא",
     "authorSex": "נקבה",
@@ -6396,6 +6560,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "381bf335-ae7e-400d-a17e-34b05fc76ce7",
     "title": "דברים נעלמים",
     "author": "נעה גוטר שגיא",
     "authorSex": "נקבה",
@@ -6435,6 +6600,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "9bcc9ba2-7c9a-4eb9-96b9-1557cf764efb",
     "title": "דברים נעלמים",
     "author": "נועה גוטר שגיא",
     "authorSex": "נקבה",
@@ -6474,6 +6640,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "770d4f3c-61e7-4a7d-bcbc-3b6e635058ec",
     "title": "דברים שהשתיקה יפה להם",
     "author": "יונתן שגיב",
     "authorSex": "זכר",
@@ -6513,6 +6680,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "b26c2c59-57fa-481e-b4e7-8c4625b13f3a",
     "title": "דברים שהשתיקה יפה להם",
     "author": "יונתן שגיב",
     "authorSex": "זכר",
@@ -6552,6 +6720,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "68be4edc-94fc-4f93-93ad-5d0a4846401f",
     "title": "דברים שקורים בשומקום",
     "author": "מיכל פיטובסקי",
     "authorSex": "נקבה",
@@ -6591,6 +6760,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "741b9bd3-eedf-44b9-8b95-314dc5d05a13",
     "title": "דודי ורעי",
     "author": "נעמי פרנקל",
     "authorSex": "נקבה",
@@ -6630,6 +6800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3544d4d8-26ba-4382-bd21-9c315ef5b2c3",
     "title": "דיבה",
     "author": "חנה גולדברג",
     "authorSex": "נקבה",
@@ -6669,6 +6840,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "cf03fe98-7206-4b9a-87bf-9b7e08134054",
     "title": "דמי מפתח",
     "author": "יהלי סובול",
     "authorSex": "זכר",
@@ -6708,6 +6880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "cdbf9dd7-e12e-479e-8b2a-2f0880dd9353",
     "title": "דרומית לאנטארקטיקה",
     "author": "ראובן מירן",
     "authorSex": "זכר",
@@ -6747,6 +6920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a4ef8d44-61ee-47da-ba6a-7df2520b25b2",
     "title": "דרומית לאנטארקטיקה",
     "author": "ראובן מירן",
     "authorSex": "זכר",
@@ -6786,6 +6960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "2d7fc167-5662-4786-80b0-3dace65e1c6b",
     "title": "דרקון האהבה רומן מחיי העיר בארץ",
     "author": "אליעזר צופרפיין",
     "authorSex": "זכר",
@@ -6825,6 +7000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7212de7f-7050-430d-904a-bcf4833b88cf",
     "title": "האורחים",
     "author": "אופיר טושה גפלה",
     "authorSex": "זכר",
@@ -6864,6 +7040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "124547fd-965f-4260-8631-6f34a8117739",
     "title": "האחרות",
     "author": "שרה בלאו",
     "authorSex": "נקבה",
@@ -6903,6 +7080,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "a04531ef-0d21-4c73-b315-198f0825f84d",
     "title": "האיש ללא עצמות",
     "author": "אמנון דנקנר",
     "authorSex": "זכר",
@@ -6942,6 +7120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "846cd7ff-a002-4fb6-abd2-c5a260559c23",
     "title": "האיש שמחק את העולם",
     "author": "עוזי וייל",
     "authorSex": "זכר",
@@ -6981,6 +7160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e824ea8e-1292-4612-b959-ff014445a62b",
     "title": "האם אתם נמצאים במקום שבו אתם צריכים להיות",
     "author": "אסף צפור",
     "authorSex": "זכר",
@@ -7020,6 +7200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "0512eaec-7661-4819-b72f-18ac5f457651",
     "title": "האשה הגדולה מן החלומות",
     "author": "יהושע קנז",
     "authorSex": "זכר",
@@ -7059,6 +7240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "9015a8ba-562c-4ef9-bc32-5ee3d2ad1ec7",
     "title": "האשה השניה",
     "author": "יאיר לפיד",
     "authorSex": "זכר",
@@ -7098,6 +7280,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "ef391ed9-fdac-418a-b26f-d821f7ea236f",
     "title": "האשה שאהבה סיפורים",
     "author": "רון ברקאי",
     "authorSex": "זכר",
@@ -7137,6 +7320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7625433d-5f3a-40c1-903e-551869054733",
     "title": "הבארשבעים",
     "author": "גיא עד",
     "authorSex": "נקבה",
@@ -7176,6 +7360,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "f15abd10-06cf-4ed1-8698-03d9a98f9da0",
     "title": "הבארשבעים",
     "author": "גיא עד",
     "authorSex": "נקבה",
@@ -7215,6 +7400,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "5709fa2f-25ba-48f3-8a8b-9fc86dad0ac4",
     "title": "הבארשבעים",
     "author": "גיא עד",
     "authorSex": "נקבה",
@@ -7254,6 +7440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "bbe3dfc4-e1dd-4513-b87b-eaf874e530be",
     "title": "הבוקר הראשון בגן עדן",
     "author": "אלאונורה לב",
     "authorSex": "נקבה",
@@ -7293,6 +7480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "fc0dbcdc-0d81-4d10-a889-338758864426",
     "title": "הבחורה העיקרית",
     "author": "ענבל מלכה",
     "authorSex": "נקבה",
@@ -7332,6 +7520,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "521e0b37-a045-424c-a077-13f4a719a1ca",
     "title": "הבטחה",
     "author": "דנה לוי אלגרוד",
     "authorSex": "נקבה",
@@ -7371,6 +7560,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "c2ff3f69-96ca-42f1-b4dd-adf76a68237b",
     "title": "הביקור",
     "author": "הילה בלום",
     "authorSex": "נקבה",
@@ -7410,6 +7600,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "f121f23b-9d88-4802-ba7a-f84d311d8a66",
     "title": "הבית אשר נחרב",
     "author": "ראובן נמדר",
     "authorSex": "זכר",
@@ -7449,6 +7640,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "66a8631b-7299-42bf-ae3a-e9b5a2f0d25d",
     "title": "הביתה",
     "author": "אסף ענברי",
     "authorSex": "זכר",
@@ -7488,6 +7680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "10896a67-1b92-4b0f-8017-5d85e6db6163",
     "title": "הביתה",
     "author": "אסף ענברי",
     "authorSex": "זכר",
@@ -7527,6 +7720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "0b76737c-9f10-42ba-9712-5d4c94916e63",
     "title": "הבלש הבריטי",
     "author": "איתמר הנדלמן סמית",
     "authorSex": "זכר",
@@ -7566,6 +7760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a3fd71a5-bca1-4b56-b40f-07a530492c52",
     "title": "הבנדיט",
     "author": "איתמר אורלב",
     "authorSex": "זכר",
@@ -7605,6 +7800,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "5f5fb5e3-d300-4164-84a9-7f500ebf78c9",
     "title": "הבריחה",
     "author": "אסתר שטרייט-וורצל",
     "authorSex": "נקבה",
@@ -7644,6 +7840,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "a9306bee-3503-4e5c-a5aa-606686713bc2",
     "title": "הבשורה על פי יהודה",
     "author": "עמוס עוז",
     "authorSex": "זכר",
@@ -7683,6 +7880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ca7a9e44-ac6a-4b94-8bba-286a49bcdbd6",
     "title": "הבת האובדת",
     "author": "נילי לנדסמן",
     "authorSex": "נקבה",
@@ -7722,6 +7920,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "e3c764ea-4c73-4c4f-9fb3-7de34d9a7a3e",
     "title": "הבת האובדת",
     "author": "נילי לנדסמן",
     "authorSex": "נקבה",
@@ -7761,6 +7960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "419a9579-9d1e-4eea-a997-67b8c6ce5ef7",
     "title": "הבת היחדיה",
     "author": "א.ב. יהושע",
     "authorSex": "זכר",
@@ -7800,6 +8000,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "a41ed064-69b6-4c1c-88cc-9c2399ff4884",
     "title": "הבת היחידה",
     "author": "א.ב. יהושע",
     "authorSex": "זכר",
@@ -7839,6 +8040,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "11d7e65f-7f90-4707-88dd-517aa8297dc3",
     "title": "הבת היחידה",
     "author": "א ב יהושע",
     "authorSex": "זכר",
@@ -7878,6 +8080,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "7b3819ee-023c-4fe1-ac8d-40f7dd76a5de",
     "title": "הבת היחידה",
     "author": "א ב יהושע",
     "authorSex": "זכר",
@@ -7917,6 +8120,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "33f93282-12c7-4d70-8bb7-4a5faea95755",
     "title": "הבת היחידה",
     "author": "א.ב. יהושע",
     "authorSex": "זכר",
@@ -7956,6 +8160,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "6f56d0a6-fa52-407c-9c02-6416783fd9e3",
     "title": "הבת היחידה",
     "author": "א. ב. יהשוע",
     "authorSex": "זכר",
@@ -7995,6 +8200,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "2199c435-2d1f-444e-9e52-2ea51cae5445",
     "title": "הגמל המעופף ודבשת הזהב",
     "author": "אהרן מגד",
     "authorSex": "זכר",
@@ -8034,6 +8240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3c81b8b3-2a40-40ab-881c-3c888ed98955",
     "title": "הגר",
     "author": "יוכי ברנדס",
     "authorSex": "נקבה",
@@ -8073,6 +8280,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "f20e5c9b-98d6-4f7a-b082-1513c1f0cfe3",
     "title": "הדבר היה ככה",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -8112,6 +8320,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "10380264-5d25-4d16-a4b1-e5b261096214",
     "title": "הדבר היה ככה",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -8151,6 +8360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "4d82c5c0-0326-42f2-9357-bc544c9af2d6",
     "title": "הדבר הכי יפה",
     "author": "דפנה ברשילון",
     "authorSex": "נקבה",
@@ -8190,6 +8400,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "f58e6466-a5ef-4f49-8ea5-48294517dbee",
     "title": "הדבר הכי יפה",
     "author": "דפנה ברשילון",
     "authorSex": "נקבה",
@@ -8229,6 +8440,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "180d3fb1-b8f5-4559-9103-41b049bf9225",
     "title": "הדס בקצה הלילה",
     "author": "גילי מיר תיבון",
     "authorSex": "נקבה",
@@ -8268,6 +8480,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "2932bb18-67e2-4449-9a81-f23aaa91c26b",
     "title": "הדפסים",
     "author": "רחל דנה פרוכטר",
     "authorSex": "נקבה",
@@ -8307,6 +8520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "28ff9913-94db-4f70-81be-9aceb24d70a7",
     "title": "הדרך לעין חרוד",
     "author": "עמוס קינן",
     "authorSex": "זכר",
@@ -8346,6 +8560,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5217973d-619a-44a3-b174-8e544add714f",
     "title": "הוא הלך בשדות",
     "author": "משה שמיר",
     "authorSex": "זכר",
@@ -8385,6 +8600,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "e7eb6532-8691-46af-bf56-8292722704bb",
     "title": "הזיקית והזמיר",
     "author": "בנימין תמוז",
     "authorSex": "זכר",
@@ -8424,6 +8640,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "2656823e-5a36-4d16-b26f-a47763fc6d5e",
     "title": "החדר שמול החומות",
     "author": "שפרה הורן",
     "authorSex": "נקבה",
@@ -8463,6 +8680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "339b2759-4882-47f3-8202-ee022a0ff643",
     "title": "החומר האפל",
     "author": "ענר שלו",
     "authorSex": "זכר",
@@ -8502,6 +8720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ac01c8fd-ca26-46fd-b83b-fae6911098cd",
     "title": "החיים בחמישים דקות",
     "author": "בני ברבש",
     "authorSex": "זכר",
@@ -8541,6 +8760,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "96836984-d4d3-43bb-9601-c8b33b7ea0a7",
     "title": "החיים כמשל",
     "author": "פנחס שדה",
     "authorSex": "זכר",
@@ -8580,6 +8800,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "e9a34bca-ca55-45a1-b220-ba3808019f3a",
     "title": "החיים כמשל",
     "author": "פנחס שדה",
     "authorSex": "זכר",
@@ -8619,6 +8840,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "822f8311-ff26-49f6-a677-f884d8749e9d",
     "title": "החלון והמדרגות",
     "author": "עמרי חורש",
     "authorSex": "זכר",
@@ -8658,6 +8880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "336409c8-fae8-413e-9414-402e4f91fd8a",
     "title": "החמדנים",
     "author": "ירמי פינקוס",
     "authorSex": "זכר",
@@ -8697,6 +8920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "daca74c0-2da0-4711-956b-30fcd7ed78ea",
     "title": "החמדנים",
     "author": "ירמי פינקוס",
     "authorSex": "זכר",
@@ -8736,6 +8960,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "5fdd50fc-ae83-4b5e-a202-2c310d03bf01",
     "title": "החמדנים",
     "author": "ירמי פינקוס",
     "authorSex": "זכר",
@@ -8775,6 +9000,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "31902c4f-91df-43fa-b3f0-89821a2848c9",
     "title": "החצי השני של הלילה",
     "author": "שפרה קורנפלד",
     "authorSex": "נקבה",
@@ -8814,6 +9040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "71c58f6d-a9ba-4e5a-b96f-e3b72cffdee0",
     "title": "החצר של מומו הגדולה",
     "author": "יהודית הנדל",
     "authorSex": "נקבה",
@@ -8853,6 +9080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b67fea3e-df26-4176-8016-c25f333cd8c8",
     "title": "החתונות שלנו",
     "author": "דורית רביניאן",
     "authorSex": "נקבה",
@@ -8892,6 +9120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "4616bb0e-8a05-4c42-8849-84bbcfd1c3df",
     "title": "הטנק",
     "author": "אסף ענברי",
     "authorSex": "זכר",
@@ -8931,6 +9160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "cae2fe8e-557f-4842-8a5a-0a04a9d1c091",
     "title": "הטנק",
     "author": "אסף ענברי",
     "authorSex": "זכר",
@@ -8970,6 +9200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b46d3ee3-9053-4cc0-938e-dab66e10a48c",
     "title": "היא יצאה לרחוב",
     "author": "מאיר זרחי",
     "authorSex": "זכר",
@@ -9009,6 +9240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "4f0926ef-5754-442f-baac-d6c3265346bf",
     "title": "היה הייתה",
     "author": "יעל נאמן",
     "authorSex": "נקבה",
@@ -9048,6 +9280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "08ab1c4d-e698-4a8f-8f63-6c1e85482643",
     "title": "היה היתה",
     "author": "יעל נאמן",
     "authorSex": "זכר",
@@ -9087,6 +9320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "df2a8490-4d94-4283-90cd-a5f91aecbb83",
     "title": "היורש",
     "author": "שמעון בלס",
     "authorSex": "זכר",
@@ -9126,6 +9360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "efc54f85-836f-4844-8c9e-77513a1acec8",
     "title": "היי, מישהו שומע אותי",
     "author": "אורית עריף",
     "authorSex": "נקבה",
@@ -9165,6 +9400,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "f68b04c6-4323-4a32-b530-b8faea82be64",
     "title": "היינו התקומה",
     "author": "זאב צחור",
     "authorSex": "זכר",
@@ -9204,6 +9440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "22c2ba92-0fe3-46ef-a6fe-f1fa532f19fd",
     "title": "היינץ ובנו והרוח הרעה",
     "author": "אהרן מגד",
     "authorSex": "זכר",
@@ -9243,6 +9480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "9bda0872-0d5a-4e66-97c1-d778aa20ae87",
     "title": "היכן אני נמצאת",
     "author": "אורלי קסטל-בלום",
     "authorSex": "נקבה",
@@ -9282,6 +9520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1c6e5d42-831f-4f1a-95ed-90120580d725",
     "title": "היכן שאינם",
     "author": "חגית גרוסמן",
     "authorSex": "נקבה",
@@ -9321,6 +9560,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "df869737-b841-4f5a-8e95-3e4beb7a59db",
     "title": "הימנעות",
     "author": "גדי ששון",
     "authorSex": "זכר",
@@ -9360,6 +9600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "340a13b2-5c67-42e9-bedc-e364a2423b99",
     "title": "היקיצה הגדולה",
     "author": "בני ברבש",
     "authorSex": "זכר",
@@ -9399,6 +9640,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "62e4e960-16b5-4ee4-aca1-c1ae37764a0a",
     "title": "הכי רחוק שאפשר",
     "author": "אלון חילו",
     "authorSex": "זכר",
@@ -9438,6 +9680,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "7f2bf9f5-443f-4b18-8ae3-0f0cf8e4dfd9",
     "title": "הכל בסדר, הילי",
     "author": "הדס קפלן",
     "authorSex": "נקבה",
@@ -9477,6 +9720,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "57f6c5dd-16e6-4f26-97fc-09dd3d505d4d",
     "title": "הכלב היהודי",
     "author": "אשר קרביץ",
     "authorSex": "זכר",
@@ -9516,6 +9760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f70c51ed-cf76-4060-88f8-7d93e3a6100a",
     "title": "הכלה הנצחית",
     "author": "יצחק אוורבוך אורפז",
     "authorSex": "זכר",
@@ -9555,6 +9800,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "349fe76a-80ec-4150-8dd2-3f789c2b4337",
     "title": "הלילה בגרנדה",
     "author": "ברוך דרור",
     "authorSex": "זכר",
@@ -9594,6 +9840,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "00dc0771-5dae-4d75-8912-6b05533fe7b9",
     "title": "המדריך לימים הקרובים",
     "author": "יואב בלום",
     "authorSex": "זכר",
@@ -9633,6 +9880,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "f7a00a71-042b-44fb-8044-df2801029a49",
     "title": "המורה",
     "author": "מיכל בן-נפתלי",
     "authorSex": "נקבה",
@@ -9672,6 +9920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "93ec0bdb-8d61-4a8e-a66e-530315af7cff",
     "title": "המורה",
     "author": "מיכל בן נפתלי",
     "authorSex": "נקבה",
@@ -9711,6 +9960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1c7a9a91-7d7e-4aac-83a4-693ecd92c7e3",
     "title": "המורה לאנגלית",
     "author": "יפתח רייכר-עתיר",
     "authorSex": "זכר",
@@ -9750,6 +10000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e4980362-86dc-4aad-85d0-2322809a76f2",
     "title": "המטבח האחורי",
     "author": "רומית סמסון",
     "authorSex": "נקבה",
@@ -9789,6 +10040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e4c6b811-5bf4-4d5a-a32d-505ca7271146",
     "title": "המטבח האחורי",
     "author": "רומית סמסון",
     "authorSex": "נקבה",
@@ -9828,6 +10080,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "a95e1d3a-ea02-4bca-8c5e-a02d55302432",
     "title": "המינה ליזה",
     "author": "אורלי קסטל-בלום",
     "authorSex": "נקבה",
@@ -9867,6 +10120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "2b368ab8-1f5c-4376-b28f-cdea14fe31c5",
     "title": "המנהרה",
     "author": "אב יהושע",
     "authorSex": "זכר",
@@ -9906,6 +10160,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "b49eddbf-b777-4f9b-b400-d53190490aef",
     "title": "המעברה",
     "author": "שמעון בלס",
     "authorSex": "זכר",
@@ -9945,6 +10200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "505ca15c-73b8-415c-bd29-d6f7f7a909fe",
     "title": "המעברים המאושרים",
     "author": "דוד טרבאי",
     "authorSex": "זכר",
@@ -9984,6 +10240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3be64f8a-753f-4acf-aff6-ded093e12af2",
     "title": "המקוה האחרון בסיביר",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -10023,6 +10280,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "425540d4-6c97-4b27-8815-090860f79f74",
     "title": "המקווה האחרון בסיביר",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -10062,6 +10320,7 @@
     "grammaticalTense": "קשה להגדיר"
   },
   {
+    "id": "fe7d90e2-4b43-4b74-811b-a5d563461f43",
     "title": "המקווה האחרון בסיביר",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -10101,6 +10360,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "f009a1c1-d62d-4d07-9ae4-f73a80331e07",
     "title": "המקווה האחרון בסיביר",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -10140,6 +10400,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "f2a3c86f-2ef7-4a4c-8164-76466206830a",
     "title": "המרחק הנכון. רצח מוסיקלי",
     "author": "בתיה גור",
     "authorSex": "נקבה",
@@ -10179,6 +10440,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "bfa40d4e-23de-4a6a-a503-c390e5d0b435",
     "title": "המשורר והחשפנית",
     "author": "אלי שמואלי",
     "authorSex": "זכר",
@@ -10218,6 +10480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "4ac7ea2c-284e-405f-87f0-304906ddcfb7",
     "title": "המתים והחיים מאוד",
     "author": "תמר גלבץ",
     "authorSex": "נקבה",
@@ -10257,6 +10520,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "2bd9858c-a1a0-404b-9579-e5fa8b27b2ba",
     "title": "המתנדבת",
     "author": "נטעלי גבירץ",
     "authorSex": "נקבה",
@@ -10296,6 +10560,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "6fc0d500-179a-439f-b6eb-ca80c82c5d3e",
     "title": "הנוסעת האחרונה",
     "author": "טל ניצן",
     "authorSex": "נקבה",
@@ -10335,6 +10600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "b21985f7-fafa-45bb-9bd3-1bb59d609ad6",
     "title": "הנוסעת האחרונה",
     "author": "טל ניצן",
     "authorSex": "נקבה",
@@ -10374,6 +10640,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1ca077d4-4a03-4b33-b01d-3c68e0f75bd5",
     "title": "הנוסעת האחרונה",
     "author": "טל ניצן",
     "authorSex": "נקבה",
@@ -10413,6 +10680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7bd6b0de-dfaa-4453-9b9e-acd552cbc950",
     "title": "הנוסעת האחרונה",
     "author": "טל ניצן",
     "authorSex": "נקבה",
@@ -10452,6 +10720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b5578d31-3148-4316-a68a-3ec2c3d711bf",
     "title": "הנזיר היהודי",
     "author": "אילן שיינפלד",
     "authorSex": "זכר",
@@ -10491,6 +10760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e5762917-5d07-4f67-bd12-7085c113e5b4",
     "title": "הנכס",
     "author": "רותו מודן",
     "authorSex": "נקבה",
@@ -10530,6 +10800,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "4bf8df62-188d-49c3-bd18-0d00abe02db1",
     "title": "הנערה מאגם מישיגן",
     "author": "חנה בת שחר",
     "authorSex": "נקבה",
@@ -10569,6 +10840,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "f804784d-e3bf-4862-aebf-916fc545dcbe",
     "title": "הסבך",
     "author": "עודד וולקשטיין",
     "authorSex": "זכר",
@@ -10608,6 +10880,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "24884a15-cc02-4957-9102-665843f8937e",
     "title": "הספר הלא נכון",
     "author": "נעה ידלין",
     "authorSex": "נקבה",
@@ -10647,6 +10920,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "77b41442-f32d-41c3-9903-3aab5ec81573",
     "title": "הספר הלא נכון",
     "author": "נעה ידלין",
     "authorSex": "נקבה",
@@ -10686,6 +10960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "9b2848c5-436a-4f55-9e1b-7456789c6610",
     "title": "הספר המשוגע",
     "author": "חיים גורי",
     "authorSex": "זכר",
@@ -10725,6 +11000,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "586717ae-9985-413b-9d4f-1c3f9365e2ba",
     "title": "העובר והשב",
     "author": "כנרת רובינשטיין",
     "authorSex": "נקבה",
@@ -10764,6 +11040,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "2df5cf42-cfd0-4d73-8fed-e4c2fb829707",
     "title": "העייפים",
     "author": "לילך נתנאל",
     "authorSex": "נקבה",
@@ -10803,6 +11080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "dd12b506-403c-4d24-8ff0-a0179f7f8807",
     "title": "העלמה מקזאן",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -10842,6 +11120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1fae02e5-ec43-48b2-ac00-7134d9ba3c18",
     "title": "הערעור האחרון",
     "author": "ליעד שהם ויובל אלבשן",
     "authorSex": "זכר",
@@ -10881,6 +11160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a43a903c-8005-4092-b85e-0d7a0ab0d413",
     "title": "העשב והחול",
     "author": "דוד שיץ",
     "authorSex": "זכר",
@@ -10920,6 +11200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3bef4ac4-3714-4225-be65-55bff5c4f678",
     "title": "הפסגה",
     "author": "אהרן אפלפלד",
     "authorSex": "זכר",
@@ -10959,6 +11240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "24190886-c25d-44c8-8da6-588b41f51208",
     "title": "הפרדס של עקיבא",
     "author": "יוכי ברנדס",
     "authorSex": "נקבה",
@@ -10998,6 +11280,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "4a48c25e-31db-4f23-95e4-f2d117826ff4",
     "title": "הצגה יומית",
     "author": "אדיבה גפן",
     "authorSex": "נקבה",
@@ -11037,6 +11320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3e07ebb5-b727-4cdb-b04d-477f489da502",
     "title": "הצל שלי ואני - תמונות ילדות",
     "author": "יהודה פוליקר",
     "authorSex": "זכר",
@@ -11076,6 +11360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "c2e615c9-50f5-4808-b4fc-ede487aab2b6",
     "title": "הצעקה האחרונה",
     "author": "יונתן שגיב",
     "authorSex": "זכר",
@@ -11115,6 +11400,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "d83b722f-b096-472f-b290-87c8dbdb880a",
     "title": "הקבוע היחידי",
     "author": "יואב בלום",
     "authorSex": "זכר",
@@ -11154,6 +11440,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "ba3f3651-8ebe-4c94-8499-105da85ba1bd",
     "title": "הקבוע היחידי",
     "author": "יואב בלום",
     "authorSex": "זכר",
@@ -11193,6 +11480,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "9442c072-ddad-43e9-a9e2-7ea1cdec16d5",
     "title": "הר האושר",
     "author": "אמיר גוטפרוינד",
     "authorSex": "זכר",
@@ -11232,6 +11520,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "b6c644cb-7b17-4360-a9c2-03091ec481a8",
     "title": "הראיון האחרון",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -11271,6 +11560,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "0ea9c068-54aa-4df6-aabe-56a4ee8886b5",
     "title": "הרביעייה",
     "author": "דוד טרבאי",
     "authorSex": "זכר",
@@ -11310,6 +11600,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "736ae124-fa22-4f41-a260-7a26df487f86",
     "title": "הרביעייה",
     "author": "דוד טרבאי",
     "authorSex": "זכר",
@@ -11349,6 +11640,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b3478419-6d74-4822-be08-f2b79d15c41b",
     "title": "הרומן המיצרי",
     "author": "אורלי קסטל בלום",
     "authorSex": "נקבה",
@@ -11388,6 +11680,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "af9e6afc-c442-43eb-a5fe-18010cedaf06",
     "title": "הרחק מהיעדרו",
     "author": "שז",
     "authorSex": "נקבה",
@@ -11427,6 +11720,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "78d4f5f3-82e4-4020-84ad-c66819a7e9b9",
     "title": "הריקוד המודרני",
     "author": "מיכל ספיר",
     "authorSex": "נקבה",
@@ -11466,6 +11760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1010b3eb-1c04-4c0d-a7d2-3fde793ecc64",
     "title": "השביעית שובתת!",
     "author": "שאול קנצלר",
     "authorSex": "זכר",
@@ -11505,6 +11800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "86329582-5a3a-402d-8e06-d0899a416bd8",
     "title": "השגעון הגדול",
     "author": "אביגדור המאירי",
     "authorSex": "זכר",
@@ -11544,6 +11840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "88424738-674b-43fa-adc4-dc1e9a8d55e6",
     "title": "השושבין",
     "author": "סביון ליבריכט",
     "authorSex": "נקבה",
@@ -11583,6 +11880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e4b418a1-e24b-42a4-8329-584a41311dc7",
     "title": "השושבין",
     "author": "סביון ליברכט",
     "authorSex": "נקבה",
@@ -11622,6 +11920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f7ea1caa-39ea-4e65-8308-9ddf4b1adff4",
     "title": "השושבין",
     "author": "סביון ליברכט",
     "authorSex": "נקבה",
@@ -11661,6 +11960,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "6453e1d1-85a0-45e9-9711-26858d3e7faa",
     "title": "השושבין",
     "author": "סביון ליברכט",
     "authorSex": "נקבה",
@@ -11700,6 +12000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ec94831c-7aa8-484c-bfac-42e2bf7de525",
     "title": "השחקניות",
     "author": "אורלי קראוס ויינר",
     "authorSex": "נקבה",
@@ -11739,6 +12040,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "2bba8160-d1f4-428b-a2bd-96b45e8f75a7",
     "title": "השיבה מהודו",
     "author": "א.ב.יהושע",
     "authorSex": "זכר",
@@ -11778,6 +12080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7d2f198c-8b49-4f14-b178-e71f858c09ed",
     "title": "השיגעון הגדול",
     "author": "אביגדור המאירי",
     "authorSex": "זכר",
@@ -11817,6 +12120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "23e1d86c-ad8c-429f-99ae-af0a5ca239bc",
     "title": "השען מסמטת המזלות",
     "author": "אביגדור דגן",
     "authorSex": "זכר",
@@ -11856,6 +12160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "9623697e-276f-4fa1-b770-ae78618937c7",
     "title": "השפעה בלתי הוגנת",
     "author": "רונית מטלון ואריאל הירשפלד",
     "authorSex": "שני מחברים, זכר ונקבה",
@@ -11895,6 +12200,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "d58c93aa-49d7-42cd-807f-9b5bc5cc27a6",
     "title": "השקרנית והעיר",
     "author": "איילת גונדר-גושן",
     "authorSex": "נקבה",
@@ -11934,6 +12240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "bc416779-fc50-4e56-81f8-dbd6184d5dd8",
     "title": "השקרנית והעיר",
     "author": "איילת גונדר גושן",
     "authorSex": "נקבה",
@@ -11973,6 +12280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "6dc203f2-ba7f-4d79-a831-8515f1f589eb",
     "title": "השתיקות",
     "author": "יובל ירח",
     "authorSex": "זכר",
@@ -12012,6 +12320,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "be938b54-a70f-4b5b-9069-f04a064e7b37",
     "title": "התגנבות יחידים",
     "author": "יהושוע קנז",
     "authorSex": "זכר",
@@ -12051,6 +12360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "27f1e35e-2742-458b-9837-851aef7afa1e",
     "title": "התנ\"ך של אמא",
     "author": "ורדה הורביץ",
     "authorSex": "נקבה",
@@ -12090,6 +12400,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "6a4b50a8-a67e-4c8c-bbc2-2faf970300c3",
     "title": "התפללתי לדרקונים דרך עץ",
     "author": "אדוה ברנד",
     "authorSex": "נקבה",
@@ -12129,6 +12440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "19e68051-027f-4a0b-a6bd-29ff798c836d",
     "title": "התפרצות x",
     "author": "עדנה מזי\"א",
     "authorSex": "נקבה",
@@ -12168,6 +12480,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "1cb668c9-af15-4f75-8087-f69dd038d23f",
     "title": "ואל אישך תשוקתך",
     "author": "נעמי רגן",
     "authorSex": "נקבה",
@@ -12207,6 +12520,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "e3095114-d616-473d-b240-29038a3a4c38",
     "title": "והאש השאירה אפר",
     "author": "אברהם שמואל שטיין",
     "authorSex": "זכר",
@@ -12246,6 +12560,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "33c78e42-a5b6-48f4-91b8-2d5314f6602c",
     "title": "והוא האור",
     "author": "לאה גולדברג",
     "authorSex": "נקבה",
@@ -12285,6 +12600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "9b6aeeb7-bbdf-4f3c-ba14-0eff20cc9ff2",
     "title": "והוא האור",
     "author": "לאה גולדברג",
     "authorSex": "נקבה",
@@ -12324,6 +12640,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "c08c20a8-9bd9-4f17-9408-e38ac7a7a8a4",
     "title": "והוא האור",
     "author": "לאה גולדברג",
     "authorSex": "נקבה",
@@ -12363,6 +12680,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "56d9634c-25c0-463e-aa5a-80a69bde1c2b",
     "title": "והילד הזה",
     "author": "יהודה אטלס",
     "authorSex": "זכר",
@@ -12402,6 +12720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7898d325-dfb3-472d-97e2-39ed9e82581a",
     "title": "והכלה סגרה את הדלת",
     "author": "רונית מטלון",
     "authorSex": "נקבה",
@@ -12441,6 +12760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3e74b5bf-7a2d-4c27-8ac6-c738e4872a0e",
     "title": "והכלה סגרה את הדלת",
     "author": "רונית מטלון",
     "authorSex": "נקבה",
@@ -12480,6 +12800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f0e2e771-4d27-4033-a73b-072dadb3b89b",
     "title": "ווקמן",
     "author": "מעין בן הגיא",
     "authorSex": "נקבה",
@@ -12519,6 +12840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "032f3772-ff2f-44c0-b196-bcfe06ed6171",
     "title": "ויקי ויקטוריה",
     "author": "גיא עד",
     "authorSex": "זכר",
@@ -12558,6 +12880,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "b1fa147c-b292-48f4-8aea-11d75df848ac",
     "title": "ויקי ויקטוריה",
     "author": "גיא עד",
     "authorSex": "נקבה",
@@ -12597,6 +12920,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "e5a9af36-b9a8-48fb-bf10-70a24536a49b",
     "title": "ויקי ויקטוריה",
     "author": "גיא עד",
     "authorSex": "נקבה",
@@ -12636,6 +12960,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "704f53ee-326c-4ea2-a076-8b847acc9ffb",
     "title": "ולא כפי שפורסם",
     "author": "יואב שפיר בירן",
     "authorSex": "זכר",
@@ -12675,6 +13000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "508f8f33-1f2b-4af3-baf3-38ab1e3fd1e5",
     "title": "ורד הלבנון",
     "author": "לאה איני",
     "authorSex": "נקבה",
@@ -12714,6 +13040,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "03a4bca9-720f-4abb-a6ba-7a43da637315",
     "title": "זבובים",
     "author": "אהרן מגד",
     "authorSex": "זכר",
@@ -12753,6 +13080,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "74687841-486d-40d7-a48d-39ef7ea356ba",
     "title": "זה עם הפנים אלינו",
     "author": "רונית מטלון",
     "authorSex": "נקבה",
@@ -12792,6 +13120,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "0aeba5eb-8d2c-468d-8862-8fb5e32e9d2f",
     "title": "זיוה בר-עשת",
     "author": "יעקב דבי-אהרן",
     "authorSex": "זכר",
@@ -12831,6 +13160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a7e0c8ac-4ef6-4b20-b4ef-4ddbe9f95025",
     "title": "זכרון דברים",
     "author": "יעקב שבתאי",
     "authorSex": "זכר",
@@ -12870,6 +13200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1fc282bc-8d08-41f4-a609-ead190c98c54",
     "title": "זכרונות אחרי מותי",
     "author": "יאיר לפיד",
     "authorSex": "זכר",
@@ -12909,6 +13240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "42b006e8-79f3-49a3-bd8b-d9ec8e36a182",
     "title": "זמן הלב",
     "author": "צביקה ניר",
     "authorSex": "זכר",
@@ -12948,6 +13280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d5f51533-ce5b-43c2-bdd8-da33d3d3a27b",
     "title": "זמן שאול",
     "author": "עמליה רוזנבלום",
     "authorSex": "נקבה",
@@ -12987,6 +13320,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "8c0382b1-56cd-4fd3-8526-901c0568ff94",
     "title": "זרות",
     "author": "ליהיא לפיד",
     "authorSex": "נקבה",
@@ -13026,6 +13360,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "d3dee71f-d12d-4c9d-bc22-c84fba5c1eab",
     "title": "זרות",
     "author": "ליהיא לפיד",
     "authorSex": "נקבה",
@@ -13065,6 +13400,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "c2a13f16-aded-4b63-962f-c2ded19ee708",
     "title": "זרות",
     "author": "ליהיא לפיד",
     "authorSex": "נקבה",
@@ -13104,6 +13440,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "d8a38ba6-a3db-498b-9360-09d200e6d12a",
     "title": "זרות",
     "author": "ליהיא לפיד",
     "authorSex": "נקבה",
@@ -13143,6 +13480,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "6837d680-4d6f-4f44-89e5-f3bc4de99459",
     "title": "חבלים",
     "author": "חיים באר",
     "authorSex": "זכר",
@@ -13182,6 +13520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "cef6d764-5b31-4291-983c-756978e03418",
     "title": "חג המכשפה",
     "author": "עינת בדי",
     "authorSex": "נקבה",
@@ -13221,6 +13560,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "6da0c6c3-c1fe-497e-889b-21c47a35a143",
     "title": "חדוה ואני: ופרשת קורותינו בעיר תל-אביב",
     "author": "אהרן מגד",
     "authorSex": "זכר",
@@ -13260,6 +13600,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "28ac6af8-f839-4dbe-9df1-4e4756b2e333",
     "title": "חדר",
     "author": "יובל שמעוני",
     "authorSex": "זכר",
@@ -13299,6 +13640,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "b58254d7-1c7b-4f23-a961-7ed1e2e306c0",
     "title": "חדר נעול",
     "author": "שמעון בלס",
     "authorSex": "זכר",
@@ -13338,6 +13680,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "6c1c48b1-e2e6-4986-937b-4604449e13e0",
     "title": "חדר שתיים",
     "author": "סבטלנה מאן",
     "authorSex": "נקבה",
@@ -13377,6 +13720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5742e721-0657-4fa4-80a9-893241e08e88",
     "title": "חדר תשע",
     "author": "סבטלנה מאן",
     "authorSex": "נקבה",
@@ -13416,6 +13760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "2221092d-f974-4f24-acec-67f96ea6125a",
     "title": "חווה חייה הסוערים של בחורה צעירה",
     "author": "ללא",
     "authorSex": "לא מצויין, מניחה שגבר",
@@ -13455,6 +13800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a5ee26ef-17a0-4c34-86f5-ed6f400fac9f",
     "title": "חוכמת הבייגלה",
     "author": "אילן הייטנר",
     "authorSex": "זכר",
@@ -13494,6 +13840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "42051486-e4a1-4172-a83d-9db4dc5656e3",
     "title": "חופשי זה",
     "author": "חיים נבון",
     "authorSex": "זכר",
@@ -13533,6 +13880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d9ad01d5-cf02-46df-9c31-5f54133d9624",
     "title": "חופשת מחלה",
     "author": "רוני ידור",
     "authorSex": "נקבה",
@@ -13572,6 +13920,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "9672c9ca-fbd4-41a9-a266-760bdea23768",
     "title": "חורף אחרון",
     "author": "שמעון בלס",
     "authorSex": "זכר",
@@ -13611,6 +13960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ebceb2c2-eed9-4111-85cd-b50afec75267",
     "title": "חיוך הגדי",
     "author": "דויד גרוסמן",
     "authorSex": "זכר",
@@ -13650,6 +14000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "756ceecc-d549-436f-9b89-6269487f32a4",
     "title": "חיי אהבה",
     "author": "צרויה שלו",
     "authorSex": "נקבה",
@@ -13689,6 +14040,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "08142de7-53a4-4c4b-8b7e-694066fe734b",
     "title": "חיי מדף",
     "author": "נועה ידלין",
     "authorSex": "זכר",
@@ -13728,6 +14080,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "57050069-4441-4705-ae62-cb6836131a87",
     "title": "חיי נישואים",
     "author": "דוד פוגל",
     "authorSex": "זכר",
@@ -13767,6 +14120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "2283f068-af33-4e0b-af2f-8b532fbe3ad7",
     "title": "חיי נישואים",
     "author": "דוד פוגל",
     "authorSex": "זכר",
@@ -13806,6 +14160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "cdc498f0-a2b5-4a3e-aba9-86bf7c0871a7",
     "title": "חיי נישואים",
     "author": "דוד פוגל",
     "authorSex": "זכר",
@@ -13845,6 +14200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ff383f0d-393e-4b7b-bbb6-5a98610fd01d",
     "title": "חיי נישואין",
     "author": "דוד פוגל",
     "authorSex": "זכר",
@@ -13884,6 +14240,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "ae946725-6057-44be-bab2-df454fdac55d",
     "title": "חיילי עופרת",
     "author": "אורי אורלב",
     "authorSex": "זכר",
@@ -13923,6 +14280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "dc637f93-ff62-4c1c-a507-af1c68efea06",
     "title": "חיילים שמחים",
     "author": "מישקה בן-דויד",
     "authorSex": "זכר",
@@ -13962,6 +14320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3f7c3d8b-4cc4-43d7-8c80-b4e1a07208e7",
     "title": "חיים על נייר זכוכית",
     "author": "יורם קניוק",
     "authorSex": "זכר",
@@ -14001,6 +14360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "8f86eebe-8b9d-403e-994f-f824b89e9caf",
     "title": "חיים שלמים",
     "author": "אהרן אפלפלד",
     "authorSex": "זכר",
@@ -14040,6 +14400,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "29e61476-23f9-46fa-8383-82333b274f28",
     "title": "חיים שנעזבו",
     "author": "איל מגד",
     "authorSex": "זכר",
@@ -14079,6 +14440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "005bfa3e-aae4-4aef-8138-431a38bdd3e8",
     "title": "חיים שנעזבו",
     "author": "אייל מגד",
     "authorSex": "זכר",
@@ -14118,6 +14480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a1e20a49-bee0-40aa-9bf0-5e7329c1ffae",
     "title": "חימו מלך ירושלים",
     "author": "יורם קניוק",
     "authorSex": "זכר",
@@ -14157,6 +14520,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "02d450bc-b428-4242-b76b-57286fb56c38",
     "title": "חלקים אנושיים",
     "author": "אורלי קסטל בלום",
     "authorSex": "נקבה",
@@ -14196,6 +14560,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "49fcd4a1-ade5-42a4-93fc-a55186aaf28d",
     "title": "חמור",
     "author": "סמי ברדוגו",
     "authorSex": "זכר",
@@ -14235,6 +14600,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "acd4f5d0-ef1c-4573-b85c-67022a0c2f67",
     "title": "חמור",
     "author": "סמי ברדוגו",
     "authorSex": "נקבה",
@@ -14274,6 +14640,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "40060b0d-bb5d-44db-83d4-73d990ae0554",
     "title": "חמישה חלומות",
     "author": "עוזי וייל",
     "authorSex": "זכר",
@@ -14313,6 +14680,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "ef24ff97-2b23-45ad-b777-b9a88b1426c6",
     "title": "חמסין וציפורים משוגעות",
     "author": "גבריאלה אביגור-רותם",
     "authorSex": "נקבה",
@@ -14352,6 +14720,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "2978f15e-d3d2-43f4-9e5b-4d2deefff4de",
     "title": "חמסין וציפורים משוגעות",
     "author": "גבריאלה אביגור רותם",
     "authorSex": "נקבה",
@@ -14391,6 +14760,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "fb54ca00-807e-4c62-a1cb-a8b71d449c91",
     "title": "חמצן",
     "author": "אמיר זיו",
     "authorSex": "זכר",
@@ -14430,6 +14800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "546d444f-49d5-4e1f-b1af-a1b9c9a2f077",
     "title": "חמצן",
     "author": "אמיר זיו",
     "authorSex": "זכר",
@@ -14469,6 +14840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b5c25dc4-e3f8-4960-95ac-361027deb280",
     "title": "חסד ספרדי",
     "author": "אב יהושע",
     "authorSex": "זכר",
@@ -14508,6 +14880,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "e2f0d282-f6d9-4773-bbd7-c88555b9c7b6",
     "title": "חשד לשטיון",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -14547,6 +14920,7 @@
     "grammaticalTense": "קשה להגדיר"
   },
   {
+    "id": "192c4ec6-e534-4cea-b4b5-4300fbfc446b",
     "title": "חתן הפרס",
     "author": "יעל טבת קלגסבלד",
     "authorSex": "נקבה",
@@ -14586,6 +14960,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "06caf528-0ee7-42a0-b640-606da365a377",
     "title": "טבילה קטלנית",
     "author": "נעים עריידי",
     "authorSex": "זכר",
@@ -14625,6 +15000,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "353bfd5d-7397-4977-b353-61e9c2e029f9",
     "title": "טיט",
     "author": "דרור בורשטיין",
     "authorSex": "זכר",
@@ -14664,6 +15040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "32423e8c-cd4e-420c-bba3-0592a3e20b81",
     "title": "טיסת מכשירים",
     "author": "אמנון נבות",
     "authorSex": "זכר",
@@ -14703,6 +15080,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "20b5ce83-81ab-4cd6-8605-7f4333986f7a",
     "title": "טקסטיל",
     "author": "אורלי קסטל-בלום",
     "authorSex": "נקבה",
@@ -14742,6 +15120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f9ae0165-4c7d-4f52-bb64-caafd000b87c",
     "title": "טרף קל",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -14781,6 +15160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "6680a1d4-f3c9-4205-99a1-8ec167b75202",
     "title": "יהודה איש קריות או חטאיו של גרימוס הקדוש",
     "author": "יגאל מוסינזון",
     "authorSex": "זכר",
@@ -14820,6 +15200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a7803b41-e875-495f-a2cd-a30545155cd1",
     "title": "יונה ונער",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -14859,6 +15240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b08f423d-2512-4cf4-ba43-ce411ef80b2f",
     "title": "יופי לי יופי לי",
     "author": "עופרה עופר",
     "authorSex": "נקבה",
@@ -14898,6 +15280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7920c210-e743-4e44-bcca-663d66da669d",
     "title": "ילד אחד מההר",
     "author": "אברם קנטור",
     "authorSex": "זכר",
@@ -14937,6 +15320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "2af55d6b-e879-471a-b360-7bcc44c292fa",
     "title": "ילדה רעה",
     "author": "נעמי לויצקי",
     "authorSex": "נקבה",
@@ -14976,6 +15360,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "3268c037-cb93-459e-9c6b-4be58c4ecfbe",
     "title": "ילדי הסקויה",
     "author": "גון בן-ארי",
     "authorSex": "זכר",
@@ -15015,6 +15400,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "1b1a3d45-ff9e-44ac-8754-110efddbe215",
     "title": "ים ביני לבינך",
     "author": "נורית גרץ",
     "authorSex": "נקבה",
@@ -15054,6 +15440,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "a0193dc8-791c-47a9-9cea-947075d8b5da",
     "title": "ימי מתילדה",
     "author": "אביבית משמרי",
     "authorSex": "נקבה",
@@ -15093,6 +15480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "9c255a6a-6dfe-4480-870f-82226ed7e8ae",
     "title": "ימיו ולילותיו של הדודה אווה",
     "author": "אמנון דנקנר",
     "authorSex": "זכר",
@@ -15132,6 +15520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a861c3ad-eac5-4769-836e-0124faef2296",
     "title": "יעקב",
     "author": "בנימין תמוז",
     "authorSex": "זכר",
@@ -15171,6 +15560,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5f09d86c-6c00-42ac-9da4-d4406c1dc3eb",
     "title": "יקיצה",
     "author": "ניר ברעם",
     "authorSex": "זכר",
@@ -15210,6 +15600,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b8102e2d-28b6-4b19-ac81-321ff02600ef",
     "title": "ירח",
     "author": "דורי פינטו",
     "authorSex": "זכר",
@@ -15249,6 +15640,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "c5f7ebcf-deaa-4fc7-8e15-625952866539",
     "title": "ירח הדבש והזהב",
     "author": "דוד שחר",
     "authorSex": "זכר",
@@ -15288,6 +15680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b770e05c-4580-4dd6-91e9-170d81d989b1",
     "title": "יש ילדים זיג זג",
     "author": "דויד גרוסמן",
     "authorSex": "זכר",
@@ -15327,6 +15720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a2ed0f60-9713-4da6-b0db-06917fa1c619",
     "title": "יש ילדים זיג זג",
     "author": "דויד גרוסמן",
     "authorSex": "זכר",
@@ -15366,6 +15760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1a817e55-15ea-4347-b226-391ce809b9c6",
     "title": "יש ילדים זיגזג",
     "author": "דויד גרוסמן",
     "authorSex": "זכר",
@@ -15405,6 +15800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "9daf7b08-8f04-4426-b332-e47fb7f46263",
     "title": "יש ילדים זיגזג",
     "author": "דויד גרוסמן",
     "authorSex": "זכר",
@@ -15444,6 +15840,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "3ec2123a-e3d4-42de-86d4-684fbb5064be",
     "title": "יש ילדים זיגזג",
     "author": "דויד גרוסמן",
     "authorSex": "זכר",
@@ -15483,6 +15880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "9e4569f1-b6cc-479b-ab4d-bc267290613f",
     "title": "כאב",
     "author": "צרויה שלו",
     "authorSex": "נקבה",
@@ -15522,6 +15920,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "47383aea-d28e-4898-abf8-c85926421e8d",
     "title": "כביסה",
     "author": "סוזן אדם",
     "authorSex": "נקבה",
@@ -15561,6 +15960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d63d598c-14cc-4650-96be-187f2d624fde",
     "title": "כה אמר וינסנט, החתול הטיפש",
     "author": "אסף שור",
     "authorSex": "זכר",
@@ -15600,6 +16000,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "adbd5dcc-ff44-49f1-9a3a-71a9b9c4d436",
     "title": "כי גי",
     "author": "סמי ברדוגו",
     "authorSex": "זכר",
@@ -15639,6 +16040,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "6bcf295c-c1fb-47d3-9ba1-07fb3e10f6b2",
     "title": "כימים אחדים",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -15678,6 +16080,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "dd036d7f-5644-43d9-9194-d2ccd4619cf3",
     "title": "כימים אחדים",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -15717,6 +16120,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "528a3b7b-1719-43a0-93f6-0ec02d4cb034",
     "title": "כימים אחדים",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -15756,6 +16160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "c53cfb3d-43fc-4375-975e-3a8530170820",
     "title": "כך להישאר לעולם",
     "author": "יונה אלון",
     "authorSex": "זכר",
@@ -15795,6 +16200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f21d35b7-f703-4904-aa13-549f74c17e2d",
     "title": "כל אהבותיו של אליעזר בן יהודה",
     "author": "אליעזר בן יהודה- הנכד",
     "authorSex": "זכר",
@@ -15834,6 +16240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "228f22aa-2c2a-4275-9af7-c9bc522561af",
     "title": "כליא ברק",
     "author": "דריה שועלי",
     "authorSex": "נקבה",
@@ -15873,6 +16280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "2af768ae-f848-4390-ad6f-de73aafd6fe0",
     "title": "כפור",
     "author": "שמעון אדף",
     "authorSex": "זכר",
@@ -15912,6 +16320,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "a99e008c-b67a-4e46-aa8b-291fd5c0fec4",
     "title": "כרוח סערה",
     "author": "הילה מגן",
     "authorSex": "נקבה",
@@ -15951,6 +16360,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "8dcf776a-4e66-4054-8ba6-1fa9fc373782",
     "title": "כריסטוס של דגים",
     "author": "יואל הופמן",
     "authorSex": "זכר",
@@ -15990,6 +16400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d018bcd5-4cdd-48be-b586-23e12b604a9b",
     "title": "כריסטוס של הדגים",
     "author": "יואל הופמן",
     "authorSex": "זכר",
@@ -16029,6 +16440,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "f2735da8-8a0e-444a-a359-dacc84877388",
     "title": "כריתה",
     "author": "לבנה מושון",
     "authorSex": "נקבה",
@@ -16068,6 +16480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b00bfde5-1643-4a52-bfd0-ee153910df82",
     "title": "כשהגלים מתחזקים",
     "author": "שרון צוהר",
     "authorSex": "נקבה",
@@ -16107,6 +16520,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "b7b1f86b-a8db-4797-b6ca-8bf94a4148c0",
     "title": "לאהוב עד מוות",
     "author": "דבורה עומר",
     "authorSex": "נקבה",
@@ -16146,6 +16560,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "1a328690-e172-416f-b938-256eb1af3686",
     "title": "לאהוב עד מוות",
     "author": "דבורה עומר",
     "authorSex": "נקבה",
@@ -16185,6 +16600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "cb8fbb13-2fe2-4d1c-ba6a-21e2ca253935",
     "title": "לב המעגל",
     "author": "קרן לנדסמן",
     "authorSex": "נקבה",
@@ -16224,6 +16640,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "06882e1b-7563-4ec6-831e-5da9f7b68450",
     "title": "לב המעגל",
     "author": "קרן לנדסמן",
     "authorSex": "נקבה",
@@ -16263,6 +16680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "60f5dd85-a013-4202-a549-64cb70513055",
     "title": "לדעת אישה",
     "author": "עמוס עוז",
     "authorSex": "זכר",
@@ -16302,6 +16720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "6e3454af-d7fe-49b6-adaa-7a87449ea889",
     "title": "להשביע את הדרקון",
     "author": "מאשה צור-גלוזמן",
     "authorSex": "נקבה",
@@ -16341,6 +16760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "61672d55-1d25-4558-8872-6a5a0dbbd6d5",
     "title": "להשביע את הדרקון",
     "author": "מאשה צור גלוזמן",
     "authorSex": "נקבה",
@@ -16380,6 +16800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e5a94ff7-be55-49d5-b946-701bfeeef833",
     "title": "להתראות אללה",
     "author": "לי-אור אמיר",
     "authorSex": "נקבה",
@@ -16419,6 +16840,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "04ff40f7-2892-4ed1-9f3c-56ca59dd7a7a",
     "title": "להתראות פליני",
     "author": "רירי מנור",
     "authorSex": "נקבה",
@@ -16458,6 +16880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f995de45-77b2-4130-866b-8099c5050498",
     "title": "לוויה בצהריים",
     "author": "ישעיהו קורן",
     "authorSex": "זכר",
@@ -16497,6 +16920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "757e8b13-67e6-46a1-b1d6-0096357e0c03",
     "title": "לוויה בצהריים",
     "author": "ישעיהו קורן",
     "authorSex": "זכר",
@@ -16536,6 +16960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "8f277b6e-cb98-48f1-afe7-d9a4860dcca1",
     "title": "לוויה בצהרים",
     "author": "ישעיהו קורן",
     "authorSex": "זכר",
@@ -16575,6 +17000,7 @@
     "grammaticalTense": "קשה להגדיר"
   },
   {
+    "id": "45682058-56ee-45ef-b202-35469b4bfe1f",
     "title": "לוויה בצהרים",
     "author": "ישעיהו קורן",
     "authorSex": "זכר",
@@ -16614,6 +17040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "dfb9a2d9-64f9-415a-aa6e-ca439a3c30a9",
     "title": "לוח חלק",
     "author": "נתן שחם",
     "authorSex": "זכר",
@@ -16653,6 +17080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "32771d05-2b81-4e59-9084-af4f05e79703",
     "title": "לוכדי עריקים",
     "author": "אמנון נבות",
     "authorSex": "זכר",
@@ -16692,6 +17120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "8414489a-d60b-4629-811a-4fc4c86cd453",
     "title": "לזארטו",
     "author": "שי אזולאי",
     "authorSex": "זכר",
@@ -16731,6 +17160,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "13d833c5-ffee-4d38-9bc5-850a1df2bff0",
     "title": "ליאורה",
     "author": "רעיה טילינגר",
     "authorSex": "נקבה",
@@ -16770,6 +17200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "8165e883-a06f-4f71-a217-9d5cc05928b3",
     "title": "ליבשן",
     "author": "יוסי וקסמן",
     "authorSex": "זכר",
@@ -16809,6 +17240,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "0f3e9178-158f-4b7b-b3a9-b2488ab4734a",
     "title": "לילה אחד מרקוביץ'",
     "author": "איילת גונדר גושן",
     "authorSex": "נקבה",
@@ -16848,6 +17280,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "a28c5bf7-563b-4dce-a0f6-339ddd47d3fc",
     "title": "לימסול",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -16887,6 +17320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b52de549-dd28-4968-86dd-fd47d7e93c9b",
     "title": "לכי, רצפי את הים",
     "author": "עדנה שמש",
     "authorSex": "נקבה",
@@ -16926,6 +17360,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "00b0d9dc-331e-4e8b-9f90-711a6d91ad24",
     "title": "לכתוב כמו אלוהים",
     "author": "אשר קרביץ",
     "authorSex": "זכר",
@@ -16965,6 +17400,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "3e370140-04ee-4bf3-b4de-fde458e66abf",
     "title": "למאטיס יש את השמש בבטן",
     "author": "יהודית קציר",
     "authorSex": "נקבה",
@@ -17004,6 +17440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "789f9f7d-8e57-40b2-9c15-f896a5d0d6ed",
     "title": "למה דג ציפור",
     "author": "אסף שור",
     "authorSex": "זכר",
@@ -17043,6 +17480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1e5ee81b-08f3-4eec-80fa-a088fe4c502b",
     "title": "למראית עין",
     "author": "ליעד שהם",
     "authorSex": "זכר",
@@ -17082,6 +17520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "34319c5c-83cd-4b64-a0f2-582323846fba",
     "title": "למראית עין",
     "author": "ליעד שוהם",
     "authorSex": "זכר",
@@ -17121,6 +17560,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "eb956d0f-7cb0-4b5e-86e9-38590c3046c5",
     "title": "לעשות מקום",
     "author": "אוריאל קון",
     "authorSex": "זכר",
@@ -17160,6 +17600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "be0ce922-6c22-4f8a-8706-fd4acd7d940e",
     "title": "לפני המקום",
     "author": "חיים באר",
     "authorSex": "זכר",
@@ -17199,6 +17640,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e5685a52-f4ab-49a6-b6df-3777db01dfcd",
     "title": "לפני שהתחלנו",
     "author": "דנה לוי אלגרוד",
     "authorSex": "נקבה",
@@ -17238,6 +17680,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "50c521e9-6f0f-4477-b583-809055ca4c45",
     "title": "לרגל הנסיבות",
     "author": "רוית ראופמן",
     "authorSex": "נקבה",
@@ -17277,6 +17720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "de075392-90ca-4cd9-8406-68653d4553e7",
     "title": "לשרוף אדמה לפעמים",
     "author": "דבורה זגורי",
     "authorSex": "נקבה",
@@ -17316,6 +17760,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "d44645c6-f8d1-4729-ae5c-aa91687d6f3f",
     "title": "מאחורי ההר",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -17355,6 +17800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "89265de0-9574-48e3-8cdd-9f84accbf6f8",
     "title": "מאחורי ההר",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -17394,6 +17840,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "99938e6e-8530-4f53-bd59-8f1b9179444b",
     "title": "מבעד לקרקעית השקופה",
     "author": "יובל שמעוני",
     "authorSex": "זכר",
@@ -17433,6 +17880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7b8d14c2-35b7-4b7d-a96c-be3ac865d169",
     "title": "מבעד לקרקעית השקופה",
     "author": "יובל שמעוני",
     "authorSex": "זכר",
@@ -17472,6 +17920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b9391fe5-1155-473e-b4f7-d47ef8ea3204",
     "title": "מגילת המדבר",
     "author": "ארז האסול",
     "authorSex": "זכר",
@@ -17511,6 +17960,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "fd4ee246-84f8-4c65-80bd-af8d16f1623a",
     "title": "מה את יודעת",
     "author": "מעין רוגל",
     "authorSex": "נקבה",
@@ -17550,6 +18000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "6f2b2784-6811-42a7-9a1b-8eed6ddc222e",
     "title": "מה שאבד בזמן",
     "author": "נורית גרץ",
     "authorSex": "נקבה",
@@ -17589,6 +18040,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "a2ed1268-4947-4d66-8d34-96696c3be684",
     "title": "מה שאחרים חושבים בי",
     "author": "יואב בלום",
     "authorSex": "זכר",
@@ -17628,6 +18080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b3f0826a-827b-4c6c-9fa2-4b5a2add5086",
     "title": "מה שנשאר",
     "author": "אלי עמיר",
     "authorSex": "זכר",
@@ -17667,6 +18120,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "5e7f5664-4bed-446c-9f4f-7cd3d94fc293",
     "title": "מהנדסי הנפש האנושית",
     "author": "לאון פרנקו",
     "authorSex": "זכר",
@@ -17706,6 +18160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "cb8914dd-74bd-4bb8-92bc-b53a9d8894ae",
     "title": "מהתחלה",
     "author": "יוסף חיים ברנר",
     "authorSex": "זכר",
@@ -17745,6 +18200,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "6c23234c-9d4f-486d-8963-6af4ad596420",
     "title": "מובינג",
     "author": "אסף גברון",
     "authorSex": "זכר",
@@ -17784,6 +18240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "182b6d37-b96b-431d-a3c6-292b4d265758",
     "title": "מוזיקת החתולים",
     "author": "רון סגל",
     "authorSex": "זכר",
@@ -17823,6 +18280,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "85c09712-942a-4e5c-90f7-fc3347dbb0a8",
     "title": "מוטי",
     "author": "אסף שור",
     "authorSex": "זכר",
@@ -17862,6 +18320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f84f7d6b-7e79-42e1-be5f-7ab007e6e923",
     "title": "מולכו",
     "author": "א.ב. יהושע",
     "authorSex": "זכר",
@@ -17901,6 +18360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "882f2764-4029-402d-b140-6661dc066508",
     "title": "מורה מן החוץ",
     "author": "דן זמל",
     "authorSex": "זכר",
@@ -17940,6 +18400,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "43b1021b-be70-4a3c-aa93-60a5727cff8f",
     "title": "מותק",
     "author": "אלי שרייבר (חתולי)",
     "authorSex": "זכר",
@@ -17979,6 +18440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "af8c9f54-88b5-415d-8739-eb5caecc5af3",
     "title": "מזכת אהבה",
     "author": "יצחק בר-יוסף",
     "authorSex": "זכר",
@@ -18018,6 +18480,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "4846080a-fb0d-4697-92b6-ff67f1c10b7a",
     "title": "מזל",
     "author": "יוסף חנני",
     "authorSex": "נקבה",
@@ -18057,6 +18520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "4fc6fcfa-a798-42e4-a148-4eb986f19975",
     "title": "מזל עורב",
     "author": "אמיר גוטפרוינד",
     "authorSex": "זכר",
@@ -18096,6 +18560,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "967cb30f-c9f1-4dc5-82df-d52eefa5beef",
     "title": "מזל עורב",
     "author": "אמיר גוטפרוינד",
     "authorSex": "זכר",
@@ -18135,6 +18600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "9234c7f9-ab13-491e-9d87-b97a2e5d2320",
     "title": "מחזיר אהבות קודמות",
     "author": "יהושע קנז",
     "authorSex": "זכר",
@@ -18174,6 +18640,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "51a9ce44-0597-47f1-9c6f-e8e75a4b32f9",
     "title": "מחר ניסע ללונה פארק",
     "author": "אילנה ברנשטיין",
     "authorSex": "נקבה",
@@ -18213,6 +18680,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "7b03f268-4b7b-4492-9a11-c2925065b0b7",
     "title": "מחר ניסע ללונה פארק",
     "author": "אילנה ברנשטיין",
     "authorSex": "נקבה",
@@ -18252,6 +18720,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "0158088d-8b1a-49b1-b89d-539494c7884d",
     "title": "מחר ניסע ללונה פארק",
     "author": "אילנה ברנשטיין",
     "authorSex": "נקבה",
@@ -18291,6 +18760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "c6736f88-562a-4882-a27b-0ff608986437",
     "title": "מחר ניסע ללונה פארק",
     "author": "אילנה ברנשטיין",
     "authorSex": "נקבה",
@@ -18330,6 +18800,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "ba418ac0-436b-4722-9604-86441eeea683",
     "title": "מחר ניסע ללונה פארק",
     "author": "אילנה ברנשטיין",
     "authorSex": "נקבה",
@@ -18369,6 +18840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5ccfb84c-8e9d-4c6c-8fd1-f857b880a024",
     "title": "מחר ניסע ללונה פארק",
     "author": "אילנה ברנשטיין",
     "authorSex": "נקבה",
@@ -18408,6 +18880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d887430b-10cb-467c-b10c-2330bf13867b",
     "title": "מחר נסע ללונה פארק",
     "author": "אילנה ברנשטיין",
     "authorSex": "נקבה",
@@ -18447,6 +18920,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "b332d790-c00c-4e35-bc23-8ecb8241a1c5",
     "title": "מי את בכלל",
     "author": "יולי נובק",
     "authorSex": "נקבה",
@@ -18486,6 +18960,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "cbed02c1-41e2-4f06-a494-fb5a1d1eb1f2",
     "title": "מי פירסט סוני",
     "author": "בני ברבש",
     "authorSex": "זכר",
@@ -18525,6 +19000,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "fc5bf95b-600b-45d8-8a3e-c69f1cb23d52",
     "title": "מי פירסט סוני",
     "author": "בני ברבש",
     "authorSex": "זכר",
@@ -18564,6 +19040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "10adf0e8-76cb-468a-9337-02ba26a0c89a",
     "title": "מיהמיה",
     "author": "סוזן אדם",
     "authorSex": "נקבה",
@@ -18603,6 +19080,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "d7d549e4-cf09-4729-bd88-7a7fa593bc82",
     "title": "מיכאל שלי",
     "author": "עמוס עוז",
     "authorSex": "זכר",
@@ -18642,6 +19120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "728bcb17-9012-452a-9db2-bea2fab8d602",
     "title": "מיכאל שלי",
     "author": "עמוס עוז",
     "authorSex": "זכר",
@@ -18681,6 +19160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1449553a-396d-4ece-a296-abd4a3b52ddb",
     "title": "מיכאל שלי",
     "author": "עמוס עוז",
     "authorSex": "זכר",
@@ -18720,6 +19200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ff3c09e5-ffac-4409-929f-7314d8623201",
     "title": "מינימי",
     "author": "רונית ידעיה",
     "authorSex": "נקבה",
@@ -18759,6 +19240,7 @@
     "grammaticalTense": "קשה להגדיר"
   },
   {
+    "id": "ceb376e3-756e-43ab-bb5f-7983e6d6f105",
     "title": "מישהו לרוץ אתו",
     "author": "דוד גרוסמן",
     "authorSex": "זכר",
@@ -18798,6 +19280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "445e2ac3-b266-4f17-a957-a9cbdc210926",
     "title": "מכונת הנצח של אלכס",
     "author": "הגר ינאי",
     "authorSex": "נקבה",
@@ -18837,6 +19320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3f3d0cd0-e2f6-404f-bf96-339c0c1924fc",
     "title": "מלכודת דבש",
     "author": "אמנון ז'קונט",
     "authorSex": "זכר",
@@ -18876,6 +19360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "82251487-f90f-49d4-9d8e-6f345e9e0621",
     "title": "מלכודת דבש",
     "author": "אמנון ז'קונט",
     "authorSex": "זכר",
@@ -18915,6 +19400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d0f53529-e8de-4904-b11c-6163756dc05a",
     "title": "מלכת היופי של ירושלים",
     "author": "שרית ישי-לוי",
     "authorSex": "נקבה",
@@ -18954,6 +19440,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "7d2f5f71-06e2-4843-a13c-5f86cd558025",
     "title": "מלכת העברים",
     "author": "אלישבע ביחובסקי",
     "authorSex": "נקבה",
@@ -18993,6 +19480,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "858b2ceb-0622-4573-9ca7-d45b25629c43",
     "title": "מלקומיה יפיפיה",
     "author": "ס. יזהר",
     "authorSex": "זכר",
@@ -19032,6 +19520,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "d3d20fbf-80b5-454e-8342-e612a1b95ed0",
     "title": "ממזרת",
     "author": "מיכל פנקל",
     "authorSex": "נקבה",
@@ -19071,6 +19560,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "b055732d-1587-4e5e-992e-f9a6ab9f6ab6",
     "title": "ממזרת",
     "author": "מיכל פנקל",
     "authorSex": "נקבה",
@@ -19110,6 +19600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "9bc27ecf-c7e1-4866-961f-c9173dce44c4",
     "title": "מנהרות",
     "author": "רותו מודן",
     "authorSex": "נקבה",
@@ -19149,6 +19640,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "d759ba8f-b2b3-4be4-a06a-a44bb2ff9f29",
     "title": "מנהרות",
     "author": "רותו מודן",
     "authorSex": "נקבה",
@@ -19188,6 +19680,7 @@
     "grammaticalTense": "קשה להגדיר"
   },
   {
+    "id": "5bd7ef8d-7e9d-422c-bf55-b3621aaa9adc",
     "title": "מנהרות",
     "author": "רותו מודן",
     "authorSex": "נקבה",
@@ -19227,6 +19720,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "87d254f8-6eab-4065-bc56-fd60afcf694b",
     "title": "מנוחה נכונה",
     "author": "עמוס עוז",
     "authorSex": "זכר",
@@ -19266,6 +19760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "8204e2e6-52a0-4153-a697-47a0b8ce2729",
     "title": "מנצחת",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -19305,6 +19800,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "82aacda3-de3a-443a-afd4-e2b9b8badf7e",
     "title": "מנצחת",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -19344,6 +19840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "8e5796cc-ed36-4611-a69d-bf590137e1d2",
     "title": "מנצחת",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -19383,6 +19880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "69093ddf-a222-45ca-8fae-50f4e5b8be8d",
     "title": "מנצחת",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -19422,6 +19920,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "51a3b5c2-be8a-4cee-98b6-36739faeaa24",
     "title": "מנצחת",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -19461,6 +19960,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "5481a09c-e244-429f-ad65-faea210e7545",
     "title": "מנצחת",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -19500,6 +20000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "46bdeeb4-c53c-4d1e-9adf-93017f9f1bd0",
     "title": "מנצחת",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -19539,6 +20040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d04af6d3-ee7e-4462-8989-3baddbdd6e02",
     "title": "מנצחת",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -19578,6 +20080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "791af6e0-f814-448e-8ef6-ce5792b113e7",
     "title": "מסיבה לילדות טובות",
     "author": "שולה מודן",
     "authorSex": "נקבה",
@@ -19617,6 +20120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3b3aea63-b6de-48da-9c54-fcd231ab0f8f",
     "title": "מסע אל תום האלף",
     "author": "א.ב. יהושע",
     "authorSex": "זכר",
@@ -19656,6 +20160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "684395d6-2d59-4775-8a97-13c50c24f38a",
     "title": "מסע דניאל",
     "author": "יצחק אורפז",
     "authorSex": "זכר",
@@ -19695,6 +20200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "77f93c7b-85a7-42ad-9c2a-25c8ddd1792f",
     "title": "מסע דניאל",
     "author": "יצחק אורפז",
     "authorSex": "זכר",
@@ -19734,6 +20240,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "8a137202-0a6b-4029-9b94-bbc72067be67",
     "title": "מסעודה",
     "author": "יקיר אלקריב",
     "authorSex": "זכר",
@@ -19773,6 +20280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "852fd3aa-ea0b-40d8-b749-683d9ef8efcb",
     "title": "מעבר לים",
     "author": "תמר רותם",
     "authorSex": "נקבה",
@@ -19812,6 +20320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5e781713-2db2-4386-bc26-9a4aea984e22",
     "title": "מעוף היונה",
     "author": "יובל שמעוני",
     "authorSex": "זכר",
@@ -19851,6 +20360,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "e87e8d9f-e3ea-4816-8a9c-7a98703a25c0",
     "title": "מעקב",
     "author": "עופרה עופר אורן",
     "authorSex": "נקבה",
@@ -19890,6 +20400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3f4f7553-f549-4904-a3d3-6ab84cf2a47a",
     "title": "מפלצת הזיכרון",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -19929,6 +20440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f53dad07-eba2-435b-95fc-946738b95545",
     "title": "מפלצת הזיכרון",
     "author": "ישי שריד",
     "authorSex": "זכר",
@@ -19968,6 +20480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "246aef59-5d04-4d10-937e-f8535a04ff6d",
     "title": "מפריח היונים",
     "author": "אלי עמיר",
     "authorSex": "זכר",
@@ -20007,6 +20520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "12b13828-55b5-4eef-9bd6-01168f813208",
     "title": "מצבי רוח",
     "author": "יואל הופמן",
     "authorSex": "זכר",
@@ -20046,6 +20560,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "1faea9f8-d721-418e-835b-6f88615bb2da",
     "title": "מצרפי המקרים",
     "author": "יואב בלום",
     "authorSex": "זכר",
@@ -20085,6 +20600,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "c2e2b2a0-042d-4ef6-a656-9737e0b9d879",
     "title": "מקדמות",
     "author": "יזהר סמילנסקי",
     "authorSex": "זכר",
@@ -20124,6 +20640,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "7c35b25d-4d06-4965-b52d-6963937c9958",
     "title": "מקהלה הונגרית",
     "author": "יגאל שוורץ",
     "authorSex": "זכר",
@@ -20163,6 +20680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b7f9a6d0-1db5-4a86-8472-2ea2b578acb8",
     "title": "מקהלה הונגרית",
     "author": "יגאל שוורץ",
     "authorSex": "זכר",
@@ -20202,6 +20720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "20a5b89c-71bf-4b23-9d63-14fdbdf73868",
     "title": "מקום",
     "author": "ניצן וייסמן",
     "authorSex": "זכר",
@@ -20241,6 +20760,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "f6c055fa-0874-42dc-bc07-eb9358bd1b9e",
     "title": "מקום",
     "author": "ניצן ויצמן",
     "authorSex": "זכר",
@@ -20280,6 +20800,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "eea447d3-b72e-4501-b4e2-8ac08162763f",
     "title": "מקום אחר ועיר זרה",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -20319,6 +20840,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "44c9ab1a-2aba-43d5-b9b3-a5953c3f74d0",
     "title": "מקלובה",
     "author": "שרי בשי",
     "authorSex": "נקבה",
@@ -20358,6 +20880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "00fe15b6-6104-434e-9bc7-f1a831e3743a",
     "title": "מקראות ישראל",
     "author": "אמנון נבות",
     "authorSex": "זכר",
@@ -20397,6 +20920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "067edf6c-c735-4e43-97d6-e77c576b7ae0",
     "title": "מר מאני",
     "author": "אברהם ב.יהושע",
     "authorSex": "זכר",
@@ -20436,6 +20960,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "fddb1dab-deec-4145-a1ad-712e9b8c5005",
     "title": "מרותקת",
     "author": "יעל נאמן",
     "authorSex": "נקבה",
@@ -20475,6 +21000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "606c3c75-475b-46ef-94eb-bd2888f12412",
     "title": "משאלה אחת ימינה",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -20514,6 +21040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "908cf221-5a72-4b12-8cf0-5bcd396b121d",
     "title": "משה חואטו והעורב",
     "author": "קובי אוז",
     "authorSex": "זכר",
@@ -20553,6 +21080,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "0f56d65a-21f8-4b7b-9b31-9c01607f3b45",
     "title": "משוואה עם נעלם",
     "author": "אורי אדלמן",
     "authorSex": "זכר",
@@ -20592,6 +21120,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "52e62eb6-821c-4243-ae11-096838be50ad",
     "title": "משחקי בדידות",
     "author": "נורית זרחי",
     "authorSex": "נקבה",
@@ -20631,6 +21160,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "4013bd9c-7807-45fd-8155-a34c2b6db072",
     "title": "משיח אכזר",
     "author": "כרמי גילון ויוסף שביט",
     "authorSex": "זכר",
@@ -20670,6 +21200,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "925e3e99-f3b3-49b3-bafe-fbd7888bae00",
     "title": "משפט אהבה",
     "author": "שרה שילה",
     "authorSex": "נקבה",
@@ -20709,6 +21240,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "79ffaf35-4948-46bc-97cd-99b5f5812d1a",
     "title": "מתום עד תום",
     "author": "חנוך ברטוב",
     "authorSex": "זכר",
@@ -20748,6 +21280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "70277d6c-7843-40a3-8605-b5ee5298c7a4",
     "title": "מתכבים מנסיעה מדומה",
     "author": "לאה גולדברג",
     "authorSex": "נקבה",
@@ -20787,6 +21320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "72a4d8ab-95b4-413b-a328-b9508b427f4d",
     "title": "מתקנים ואטרקציות",
     "author": "מיכל זמיר",
     "authorSex": "נקבה",
@@ -20826,6 +21360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "66c45cb2-0a41-432f-bf02-257360080175",
     "title": "נבדה",
     "author": "מיטל זהר",
     "authorSex": "נקבה",
@@ -20865,6 +21400,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "68134d07-7ef0-4056-bc16-93576ceac52c",
     "title": "נבדה",
     "author": "מיטל זהר",
     "authorSex": "נקבה",
@@ -20904,6 +21440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ed9ad3b6-23c9-42e7-a3f2-c954bcc2bd19",
     "title": "נופים ממטרופולין המוות",
     "author": "אוטו דב קולקה",
     "authorSex": "זכר",
@@ -20943,6 +21480,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "19797145-29f6-41df-b747-ac7b373545ea",
     "title": "נוצות",
     "author": "חיים באר",
     "authorSex": "זכר",
@@ -20982,6 +21520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "2c01925b-5c18-415a-80ce-11438a6648ee",
     "title": "נטל ההוכחה",
     "author": "אילת שמיר",
     "authorSex": "נקבה",
@@ -21021,6 +21560,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "70b730bd-9a25-44f0-9438-025e0c38ba46",
     "title": "נטע זר",
     "author": "שרית פליין",
     "authorSex": "נקבה",
@@ -21060,6 +21600,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "b2a8f8b7-d9a1-43e7-b577-9d6f85b8f64a",
     "title": "נמר בהרים",
     "author": "צור שיזף",
     "authorSex": "זכר",
@@ -21099,6 +21640,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "9424eb24-97f1-4a08-8ab6-331809c309ce",
     "title": "נמר בירושלים",
     "author": "אורן ולדמן",
     "authorSex": "זכר",
@@ -21138,6 +21680,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "db457caf-bfe3-4b9b-b8f8-ea828e3f30d8",
     "title": "נמר גימ\"ל",
     "author": "לירן גולוד",
     "authorSex": "נקבה",
@@ -21177,6 +21720,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "c31dd4f3-2071-4c62-a2a8-08e24d78b76f",
     "title": "נעדרים קרים",
     "author": "אסף קוגלר",
     "authorSex": "זכר",
@@ -21216,6 +21760,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "58f18823-12e1-4f23-b539-04347517b67d",
     "title": "נעדרים קרים",
     "author": "אסף קוגלר",
     "authorSex": "זכר",
@@ -21255,6 +21800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "30324771-3f5d-4d3c-83d8-f6a9ac09cb05",
     "title": "נער האופניים",
     "author": "אלי אמיר",
     "authorSex": "זכר",
@@ -21294,6 +21840,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "874823cd-77f7-4208-a0fe-9041236c3974",
     "title": "נער האופניים",
     "author": "אלי עמיר",
     "authorSex": "זכר",
@@ -21333,6 +21880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "8820cab8-b772-44d1-8dce-d08470cfea31",
     "title": "נער האופניים",
     "author": "אלי עמיר",
     "authorSex": "זכר",
@@ -21372,6 +21920,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "eab93a0d-19c0-46a0-974c-f31a65bdb636",
     "title": "נער האופניים",
     "author": "אלי עמיר",
     "authorSex": "זכר",
@@ -21411,6 +21960,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "c4632640-63d0-4039-8730-688d339d570d",
     "title": "נער האופניים",
     "author": "אלי עמיר",
     "authorSex": "זכר",
@@ -21450,6 +22000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "df4450e4-46b2-418e-9abe-1054cb97d69f",
     "title": "נשבעת בדם",
     "author": "ליליאן סלמה נחום",
     "authorSex": "נקבה",
@@ -21489,6 +22040,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "c55c5b0c-0516-4cc2-9116-375cf6234cc9",
     "title": "נשמות",
     "author": "רועי חן",
     "authorSex": "זכר",
@@ -21528,6 +22080,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "d61cd94f-40df-4fc1-b553-9659ef19863a",
     "title": "נשמות",
     "author": "רועי חן",
     "authorSex": "זכר",
@@ -21567,6 +22120,7 @@
     "grammaticalTense": "קשה להגדיר"
   },
   {
+    "id": "1445c178-c906-4942-9f6c-d231b7eb6a64",
     "title": "נשמות",
     "author": "רועי חן",
     "authorSex": "זכר",
@@ -21606,6 +22160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "40d3adaa-d39c-427e-99da-22a002f60438",
     "title": "נשמות",
     "author": "רועי חן",
     "authorSex": "זכר",
@@ -21645,6 +22200,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "802a1069-bd07-4d13-8a0f-b1ef11798b38",
     "title": "נתניה",
     "author": "דרור בורשטיין",
     "authorSex": "זכר",
@@ -21684,6 +22240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e7617ad1-8b8f-4c42-a11d-d3aac8f96a52",
     "title": "סוג מסוים של יתמות",
     "author": "אלאונורה לב",
     "authorSex": "נקבה",
@@ -21723,6 +22280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e9bde979-f80e-4f69-ae5d-40be2671fcb2",
     "title": "סוזנה הבוכיה",
     "author": "אלונה קמחי",
     "authorSex": "נקבה",
@@ -21762,6 +22320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3d98ebe8-0c32-4d40-af0d-1009944110b1",
     "title": "סוכן הוד מלכותו",
     "author": "דוד שחר",
     "authorSex": "זכר",
@@ -21801,6 +22360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "204bf17a-f4e3-4b84-8596-905c9009b38c",
     "title": "סוכת שלום",
     "author": "יהושע בר יוסף",
     "authorSex": "זכר",
@@ -21840,6 +22400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "76679ff3-dd85-46eb-b7c6-4a101b450fed",
     "title": "סוכת שלום",
     "author": "יהושע בר-יוסף",
     "authorSex": "זכר",
@@ -21879,6 +22440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "8f4f2a67-ef48-45a6-84cd-828bb834fd14",
     "title": "סונטה",
     "author": "לילי פרי",
     "authorSex": "נקבה",
@@ -21918,6 +22480,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "108e73d5-d8c0-4568-8ea3-36559ce06b73",
     "title": "סוס אחד נכנס לבר",
     "author": "דויד גרוסמן",
     "authorSex": "זכר",
@@ -21957,6 +22520,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "8dfdd467-91c7-4413-b129-a4fa872a9fed",
     "title": "סוס אחד נכנס לבר",
     "author": "דוד גרוסמן",
     "authorSex": "זכר",
@@ -21996,6 +22560,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "e0f3850d-4f76-4770-afcd-9472ee4db293",
     "title": "סוף דבר",
     "author": "יעקב שבתאי",
     "authorSex": "זכר",
@@ -22035,6 +22600,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "a35be8dc-4318-47d3-ab49-1e3f102d9b9f",
     "title": "סוף דבר",
     "author": "יעקב שבתאי",
     "authorSex": "זכר",
@@ -22074,6 +22640,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3f27bb0a-52fa-41bc-8f00-d9eac0db6712",
     "title": "סוף דבר",
     "author": "יעקב שבתאי",
     "authorSex": "זכר",
@@ -22113,6 +22680,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "0dc641ec-6e31-4d13-b0ee-f5e342b8b7e7",
     "title": "סוף דבר",
     "author": "יעקב שבתאי",
     "authorSex": "זכר",
@@ -22152,6 +22720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "27c52a81-039c-49c2-9e0d-a5ae41fddb42",
     "title": "סוף המרוץ או: גן, זן ואמנות הרכיבה",
     "author": "מישקה בן-דוד",
     "authorSex": "זכר",
@@ -22191,6 +22760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "758505cd-0dd4-4de4-88b5-4375df5e84c6",
     "title": "סילנד",
     "author": "נגה אלבלך",
     "authorSex": "נקבה",
@@ -22230,6 +22800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d6bf1722-e237-4756-9b06-351d2ceaaa9e",
     "title": "סיפור על אהבה וחושך",
     "author": "עמוס עוז",
     "authorSex": "זכר",
@@ -22269,6 +22840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "fa302e9f-1c17-4992-a193-c34061e07ea5",
     "title": "סיפור פשוט",
     "author": "שי עגנון",
     "authorSex": "זכר",
@@ -22308,6 +22880,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "eb5fe8b0-e395-4775-bf9d-be2df9f30e1c",
     "title": "סית מרים",
     "author": "יהודה סלוצקי",
     "authorSex": "זכר",
@@ -22347,6 +22920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "da0749d7-1f36-42fc-9e1c-717c43626f95",
     "title": "סמטאות",
     "author": "אלישבע (ביחובסקי)",
     "authorSex": "נקבה",
@@ -22386,6 +22960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "31589cfa-c123-422b-b930-1ee95687fb33",
     "title": "סמל ראשון מוסטפא רבינוביץ'",
     "author": "אשר קרביץ",
     "authorSex": "זכר",
@@ -22425,6 +23000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e65d2c32-b35c-4173-b2c0-c74525d68559",
     "title": "סמל ראשון מוסטפא רבינוביץ'",
     "author": "אשר קרביץ",
     "authorSex": "זכר",
@@ -22464,6 +23040,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "4e8f85f4-92ee-4646-8583-3b19cd0954dc",
     "title": "סנונית ראשונה",
     "author": "יהודה בורלא",
     "authorSex": "זכר",
@@ -22503,6 +23080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "88f0b409-8faf-43fb-b0fb-4d7feec98420",
     "title": "ספינת הבנות",
     "author": "מיכל זמיר",
     "authorSex": "נקבה",
@@ -22542,6 +23120,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "b196d51f-e70b-484c-a06e-b833b48e1b64",
     "title": "ספר הגברים",
     "author": "ננו שבתאי",
     "authorSex": "נקבה",
@@ -22581,6 +23160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "600763fd-3560-46d5-a059-ce8894ceb820",
     "title": "ספר הקבצנים",
     "author": "שלום יעקב אברמוביץ'",
     "authorSex": "זכר",
@@ -22620,6 +23200,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "31a8b99e-7805-4512-87a2-9e6b64344613",
     "title": "ספר קטן על העולם הגדול",
     "author": "גיל חובב",
     "authorSex": "זכר",
@@ -22659,6 +23240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "692bbf80-955b-47a7-afba-768dbe61d531",
     "title": "עד הנה",
     "author": "ש\"י עגנון",
     "authorSex": "זכר",
@@ -22698,6 +23280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d11a8dbd-afe2-4bc2-bc92-c9c29b6dc342",
     "title": "עד עולם אחכה",
     "author": "דוד שיץ",
     "authorSex": "זכר",
@@ -22737,6 +23320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d2159fff-240b-43cb-ae78-426cebb0b4a3",
     "title": "עד עולם אחכה",
     "author": "דוד שיץ",
     "authorSex": "זכר",
@@ -22776,6 +23360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "44c9e998-dffb-45ab-b346-beb751b86a4b",
     "title": "עד שהגשם יחזור",
     "author": "סלעית שחף - פולג",
     "authorSex": "נקבה",
@@ -22815,6 +23400,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "fe9047af-caec-4833-8b7e-047cc943103c",
     "title": "עד שהנשמה תצוף",
     "author": "אורי שורצמן",
     "authorSex": "זכר",
@@ -22854,6 +23440,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "3ce6ebe7-b721-490f-b5a5-2f06a2c04ded",
     "title": "עד שיום אחד",
     "author": "שמי זרחין",
     "authorSex": "זכר",
@@ -22893,6 +23480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "55944cef-b18f-4a06-b3a3-49185abb7f5c",
     "title": "עד שיום אחד",
     "author": "שמי זרחין",
     "authorSex": "זכר",
@@ -22932,6 +23520,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "aabf0fbe-3618-40c6-b5ab-ad8ee6b916f6",
     "title": "עוגיות המלח של סבתא סולטנה",
     "author": "דן בניה סרי",
     "authorSex": "זכר",
@@ -22971,6 +23560,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "f111a899-7d1f-449e-97a1-0f78bb17b6ac",
     "title": "עונת המלכים",
     "author": "אמנון נבות",
     "authorSex": "זכר",
@@ -23010,6 +23600,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "9f881a64-6ace-4dfe-8d4c-7c601cba8a8e",
     "title": "עור",
     "author": "רונית ידעיה",
     "authorSex": "נקבה",
@@ -23049,6 +23640,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "9d32c823-b04b-4fd0-8d41-4f53697f42f0",
     "title": "עיבל",
     "author": "אברהם הפנר",
     "authorSex": "זכר",
@@ -23088,6 +23680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ef44e375-ee75-42d0-8cf8-e9796172be0c",
     "title": "עיין ערך: 'אהבה'",
     "author": "דויד גרוסמן",
     "authorSex": "זכר",
@@ -23127,6 +23720,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "23d3a380-05fd-420f-b331-85828d6e2cff",
     "title": "עיין ערך: אהבה",
     "author": "דויד גרוסמן",
     "authorSex": "זכר",
@@ -23166,6 +23760,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "cbf3a3bb-c38c-48ad-932d-3ecd4fc7344a",
     "title": "עיר ימים רבים",
     "author": "שולמית הראבן",
     "authorSex": "נקבה",
@@ -23205,6 +23800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "63fa9238-d6d7-4f67-b6bc-b5e2677d18d7",
     "title": "על הדבש ועל המוות",
     "author": "ערן בר גיל",
     "authorSex": "זכר",
@@ -23244,6 +23840,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "3f8dd7e8-528e-48e1-b189-3b76b209bb7f",
     "title": "על מקום הימצאה",
     "author": "תמר קפלנסקי",
     "authorSex": "נקבה",
@@ -23283,6 +23880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d15ff7af-0204-4cc5-ad48-2e578f53a44c",
     "title": "על מקום הימצאה",
     "author": "תמר קפלנסקי",
     "authorSex": "נקבה",
@@ -23322,6 +23920,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "b5d591df-8d82-4ca9-b134-5b6d82fb9387",
     "title": "עקבות הדם",
     "author": "א אליון",
     "authorSex": "לא ידוע",
@@ -23361,6 +23960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "e5d6b92e-8def-4b92-93e7-33cf13cfa8c4",
     "title": "עקוב אחר שינויים",
     "author": "סייד קשוע",
     "authorSex": "זכר",
@@ -23400,6 +24000,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "12786fad-3e74-4220-98f1-05fe559f1d61",
     "title": "עקוד",
     "author": "אלברט סויסה",
     "authorSex": "זכר",
@@ -23439,6 +24040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f21a08a3-8f8f-4120-bf3f-a813f558041a",
     "title": "ערבסקות",
     "author": "אנטון שמאס",
     "authorSex": "זכר",
@@ -23478,6 +24080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "5506e84b-c2ca-4010-a821-b49a60fad02c",
     "title": "עשו",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -23517,6 +24120,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "4b34871c-d544-41a1-979c-afeb88f86e36",
     "title": "עשו",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -23556,6 +24160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f4f490a4-509e-45b2-af5d-5ef155f4b00b",
     "title": "עשו",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -23595,6 +24200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "f5a956b5-99af-4b96-912a-35d78278db24",
     "title": "עשו",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -23634,6 +24240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "07e651b5-cd75-4378-a583-7b4f547adf24",
     "title": "עשרת הימים הנוראים",
     "author": "אהרן מגד",
     "authorSex": "זכר",
@@ -23673,6 +24280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a126bd4a-9021-4310-b810-1bb11882f94b",
     "title": "עת דודים",
     "author": "מירי ורון",
     "authorSex": "נקבה",
@@ -23712,6 +24320,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "64a36fdb-e2d3-4c30-b1c3-3fb6cc8e3ff2",
     "title": "עת הזמיר",
     "author": "חיים באר",
     "authorSex": "זכר",
@@ -23751,6 +24360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ad7ce1c9-b0f8-453d-9880-6281b240a54d",
     "title": "עתידה",
     "author": "רעיה טילינגר",
     "authorSex": "נקבה",
@@ -23790,6 +24400,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "e8a58dae-03c0-42ec-852e-e8970837669d",
     "title": "פאני וגבריאל",
     "author": "נאוה סמל",
     "authorSex": "נקבה",
@@ -23829,6 +24440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b5ce9b34-760a-4208-8565-bbad4519a606",
     "title": "פולשת",
     "author": "ארנה קזין",
     "authorSex": "נקבה",
@@ -23868,6 +24480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3f00e500-7599-4813-8297-785f7eda604f",
     "title": "פליאה",
     "author": "צרויה שלו",
     "authorSex": "נקבה",
@@ -23907,6 +24520,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "4146a3df-b446-4d4e-9d30-57a2b6188e98",
     "title": "פליאה",
     "author": "צרויה שלו",
     "authorSex": "נקבה",
@@ -23946,6 +24560,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "f5cb21e4-6d22-48b0-82fa-da559a1b5434",
     "title": "פליאה",
     "author": "צרויה שלו",
     "authorSex": "נקבה",
@@ -23985,6 +24600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "e1a8794d-3303-43f1-b4d4-763a4affb3b2",
     "title": "פלמינגו ימי אהבה",
     "author": "חוה ניסימוב",
     "authorSex": "נקבה",
@@ -24024,6 +24640,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "e91c272c-41ac-4777-8ac2-d56fc01ac1b3",
     "title": "פנים אל פנים - שעת האפס",
     "author": "אבא קובנר",
     "authorSex": "זכר",
@@ -24063,6 +24680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "6fd235b9-6b68-42aa-ac00-c65d354baa80",
     "title": "פנתר במרתף",
     "author": "עמוס עוז",
     "authorSex": "זכר",
@@ -24102,6 +24720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "c666ec27-bbcb-407c-80b7-d682bc976515",
     "title": "פנתר במרתף",
     "author": "עמוס עוז",
     "authorSex": "זכר",
@@ -24141,6 +24760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "8100c42d-20e5-4502-b7e2-4649105dd307",
     "title": "פצע",
     "author": "עדי אבלס",
     "authorSex": "זכר",
@@ -24180,6 +24800,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "cd256175-ec34-4b7d-9baf-1ef4d44a3767",
     "title": "פרא אציל",
     "author": "דודו בוסי",
     "authorSex": "זכר",
@@ -24219,6 +24840,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "75e14ae1-7040-4e98-8c2c-d2a6e6cfe5be",
     "title": "פרחי האפלה",
     "author": "אהרן אפלפלד",
     "authorSex": "זכר",
@@ -24258,6 +24880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "c58d1821-7662-4c4b-9b71-dbf57e169046",
     "title": "פרפר במחסן",
     "author": "שולמית לפיד",
     "authorSex": "נקבה",
@@ -24297,6 +24920,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "71640d55-ceba-4ae2-ab88-dfd0abcfca13",
     "title": "פרפרים בגשם",
     "author": "מירה מגן",
     "authorSex": "נקבה",
@@ -24336,6 +24960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b95c2d22-8640-4ad4-b700-bfb185954415",
     "title": "פתאום אהבה",
     "author": "אהרן אפלפלד",
     "authorSex": "זכר",
@@ -24375,6 +25000,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "634005cb-35c0-437d-98ef-d21851125595",
     "title": "פתאום בעומק היער",
     "author": "עמוס עוז",
     "authorSex": "זכר",
@@ -24414,6 +25040,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7531daee-8e1e-4e38-91af-347801c64548",
     "title": "פתחי לי, אחותי",
     "author": "אורה שם-אור",
     "authorSex": "נקבה",
@@ -24453,6 +25080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3e19fd3e-5b88-414c-b10b-99975d6efe21",
     "title": "צבים",
     "author": "מוריה דיין קודיש",
     "authorSex": "נקבה",
@@ -24492,6 +25120,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "7c5fc0a6-6cde-4888-8806-77cb09fbe47d",
     "title": "צוף",
     "author": "יערה עמנואל",
     "authorSex": "נקבה",
@@ -24531,6 +25160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "bf50f0ef-f2c6-48bf-beba-5ee9bc0e04f1",
     "title": "צל ידו",
     "author": "חיים באר",
     "authorSex": "זכר",
@@ -24570,6 +25200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7a448a31-a0ba-4050-9ecd-9378c7d984d8",
     "title": "צל ידו",
     "author": "חיים באר",
     "authorSex": "זכר",
@@ -24609,6 +25240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "b2e3d3e4-c39f-48a8-acae-12141abffda3",
     "title": "צל ידו",
     "author": "חיים באר",
     "authorSex": "זכר",
@@ -24648,6 +25280,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "01841793-32e8-4ac8-9e79-1e3d279ae54e",
     "title": "צמח בר",
     "author": "נעמי פרנקל",
     "authorSex": "נקבה",
@@ -24687,6 +25320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "727c9143-e839-4ca9-9278-cbe05ce2b1db",
     "title": "צערו העתיק של הירח",
     "author": "נעמה דעי",
     "authorSex": "נקבה",
@@ -24726,6 +25360,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "6d86539b-1f9e-43e0-a9ce-ccbb9568a040",
     "title": "צערו העתיק של הירח",
     "author": "נעמה דעי",
     "authorSex": "נקבה",
@@ -24765,6 +25400,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "acc90507-c97a-45fa-89cc-0a2f49e028b5",
     "title": "קו המלח",
     "author": "יובל שמעוני",
     "authorSex": "זכר",
@@ -24804,6 +25440,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "baa36b83-76f1-4a1c-bbf0-05c5e3320b0a",
     "title": "קו המלח",
     "author": "יובל שמעוני",
     "authorSex": "זכר",
@@ -24843,6 +25480,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "75b06c06-2fd8-492c-886d-5edfa3823d53",
     "title": "קו המלח",
     "author": "יובל שמעוני",
     "authorSex": "זכר",
@@ -24882,6 +25520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "4f84cf27-548d-4ad3-aa60-ca36c8fa7204",
     "title": "קו המלח",
     "author": "יובל שמעוני",
     "authorSex": "זכר",
@@ -24921,6 +25560,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "fa5affd2-4166-4cfe-b664-d56d4080aeee",
     "title": "קו המלח",
     "author": "יובל שמעוני",
     "authorSex": "זכר",
@@ -24960,6 +25600,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "be188776-ee8c-4cbd-b65a-0bb24824b5b1",
     "title": "קודם כול, תירגעי",
     "author": "שירי צוק",
     "authorSex": "נקבה",
@@ -24999,6 +25640,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d18918da-9d72-430b-a7cb-18eebd457399",
     "title": "קולומבוס היהודי",
     "author": "שאול ספיר",
     "authorSex": "זכר",
@@ -25038,6 +25680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "6259f2c0-c7bd-46d0-a2d9-a1cff03b7b42",
     "title": "קום קרא",
     "author": "שמעון אדף",
     "authorSex": "זכר",
@@ -25077,6 +25720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "869a6dd0-2c98-4eb0-b119-5e492844a30f",
     "title": "קינאת סופרות",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -25116,6 +25760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "308fdf84-f938-4356-b59e-0724f9a10ded",
     "title": "קליפות",
     "author": "מור קדישזון",
     "authorSex": "נקבה",
@@ -25155,6 +25800,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "f80e7d6f-61d1-4b4b-9838-aa19378b894d",
     "title": "קלמן קימרלינג: חוקר פרטי, בעזרת השם",
     "author": "אשר קרביץ",
     "authorSex": "זכר",
@@ -25194,6 +25840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "fa526e61-40c1-47d5-817e-36d4a6c3e278",
     "title": "קנאה טובה",
     "author": "תמר בלומנפלד",
     "authorSex": "נקבה",
@@ -25233,6 +25880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "bab97e38-da9b-4397-adc8-d9d02357cb86",
     "title": "קנאה טובה",
     "author": "תמר בלומנפלד",
     "authorSex": "נקבה",
@@ -25272,6 +25920,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "64fab894-cdef-4991-9d6a-0d7b969f1375",
     "title": "קנאת סופרות",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -25311,6 +25960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a72441c3-012b-487b-af2f-9aedfbb4663d",
     "title": "קנאת סופרות",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -25350,6 +26000,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "0a54765a-5a79-4eb4-b289-62eab9d3493b",
     "title": "קנאת סופרות",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -25389,6 +26040,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "18e464c3-844b-4c79-aaa1-5bc417174d9b",
     "title": "קנאת סופרות",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -25428,6 +26080,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "d1bf905a-522e-4ffd-9a76-9f925a484150",
     "title": "קנאת סופרות",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -25467,6 +26120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "66cc4d78-3736-4806-a28b-4d4733c25285",
     "title": "קנאת סופרות",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -25506,6 +26160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "93a7742a-27b4-434b-9de0-235064213a9f",
     "title": "קנאת סופרות",
     "author": "מאיה ערד",
     "authorSex": "נקבה",
@@ -25545,6 +26200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "65d0cb59-2213-4590-bfed-52782af1eb50",
     "title": "קסם וכזב",
     "author": "ערן בר גיל",
     "authorSex": "זכר",
@@ -25584,6 +26240,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "235f2660-63f5-4ac5-ac98-7d969c0cedb1",
     "title": "קצות החושך",
     "author": "אלעזר בניועץ",
     "authorSex": "זכר",
@@ -25623,6 +26280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1441dbac-6f88-4f1d-b578-a7097ee7db76",
     "title": "קראו לו פיפל",
     "author": "קצטניק (יחיאל דינור)",
     "authorSex": "זכר",
@@ -25662,6 +26320,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "f87e3bab-da1b-4343-a6a0-9f9229292a91",
     "title": "קראו לי אושר",
     "author": "אבישי חורי",
     "authorSex": "זכר",
@@ -25701,6 +26360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7450f611-0668-4e7f-94b2-fba09fe753e7",
     "title": "קרבת דם",
     "author": "מתן חרמוני",
     "authorSex": "זכר",
@@ -25740,6 +26400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a8ac3d8d-1d49-49c8-bcf2-1b0c772d692f",
     "title": "רביעיית רוזנדורף",
     "author": "נתן שחם",
     "authorSex": "זכר",
@@ -25779,6 +26440,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "17f1a65f-a2ff-4501-a264-6f6b2f2297ec",
     "title": "רביעית רוזנדורף",
     "author": "נתן שחם",
     "authorSex": "זכר",
@@ -25818,6 +26480,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "756330ad-9856-4567-b3ff-18e961e4603c",
     "title": "רביעית רוזנדורף",
     "author": "נתן שחם",
     "authorSex": "זכר",
@@ -25857,6 +26520,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "5e727059-079c-4871-9bdd-7e2787057332",
     "title": "רוכבי הדלי",
     "author": "אודי טאוב",
     "authorSex": "זכר",
@@ -25896,6 +26560,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "9b3cfc97-a8da-426b-bae4-a9242a131a3f",
     "title": "רומן",
     "author": "מיכל קובזמן",
     "authorSex": "נקבה",
@@ -25935,6 +26600,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "001947a8-f9c7-4439-82d6-d953c1fb4d58",
     "title": "רומן במכתבים",
     "author": "מרים שנייד",
     "authorSex": "נקבה",
@@ -25974,6 +26640,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d4c23b71-84fc-4a4b-8f05-b70a07a295e3",
     "title": "רומן וינאי",
     "author": "דוד פוגל",
     "authorSex": "זכר",
@@ -26013,6 +26680,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "bf32a8c8-9ee8-4de0-97f2-1b6843869f9d",
     "title": "רומן עברי-גרמני",
     "author": "דב בהט",
     "authorSex": "זכר",
@@ -26052,6 +26720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "07fc147d-6165-44fe-8de9-91ff250bbce5",
     "title": "רומן רוסי",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -26091,6 +26760,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "54ec39e4-d44f-46fb-b11a-28ff16eaf489",
     "title": "רומן רוסי",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -26130,6 +26800,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "3adde0ac-6e36-4dac-880a-10b5cf8697df",
     "title": "רחוב המדרגות",
     "author": "יהודית הנדל",
     "authorSex": "נקבה",
@@ -26169,6 +26840,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "7f081621-20f6-4881-adaf-a047df41c853",
     "title": "רחוב המדרגות",
     "author": "יהודית הנדל",
     "authorSex": "נקבה",
@@ -26208,6 +26880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "bb84c188-bb01-4e64-b6e5-afd8cb944e5a",
     "title": "רילוקיישן",
     "author": "איילת גונדר גושן",
     "authorSex": "נקבה",
@@ -26247,6 +26920,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "0858c0a7-5d1a-439e-a8c6-b9074431abb5",
     "title": "רילוקיישן",
     "author": "איילת גונדר גושן",
     "authorSex": "נקבה",
@@ -26286,6 +26960,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "62f2cea0-b5a6-415b-b9bb-1744a5a583c0",
     "title": "רילוקיישן",
     "author": "איילת גונדר גושן",
     "authorSex": "נקבה",
@@ -26325,6 +27000,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "28e1e2ee-c17d-4bb2-9acc-0508e16419fb",
     "title": "רכבת שלג",
     "author": "טל יעקב",
     "authorSex": "זכר",
@@ -26364,6 +27040,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "8d8886e8-6002-4858-8f81-1576ff4e8767",
     "title": "רכוש גנוב",
     "author": "סוזן אדם",
     "authorSex": "נקבה",
@@ -26403,6 +27080,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "6f373ca7-e72a-47e3-a2ba-c7c63d3e8c8a",
     "title": "רצח בבית האדום",
     "author": "אלון חילו",
     "authorSex": "זכר",
@@ -26442,6 +27120,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "aa880722-08f5-4f33-9b2c-8e0b0f56c0d8",
     "title": "רצח בבית האדום",
     "author": "אלון חילו",
     "authorSex": "זכר",
@@ -26481,6 +27160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "45109b5e-c1dd-4942-aa2a-c2d204ac25ba",
     "title": "רצח בדרך בית לחם",
     "author": "בתיה גור",
     "authorSex": "נקבה",
@@ -26520,6 +27200,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "35efb2bf-0279-4264-a456-7a42fa15a30e",
     "title": "רצח בשבת בבוקר",
     "author": "בתיה גור",
     "authorSex": "נקבה",
@@ -26559,6 +27240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "9448f330-1ace-4478-ad75-3c64dc2c43e0",
     "title": "רצח בשבת בבוקר",
     "author": "בתיה גור",
     "authorSex": "נקבה",
@@ -26598,6 +27280,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "6ae0e0b9-1ea7-4b65-8f47-e36d74debd3f",
     "title": "רצח בשבת בבוקר",
     "author": "בתיה גור",
     "authorSex": "נקבה",
@@ -26637,6 +27320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "326266f4-113f-4cbe-985b-fa7a650f3aba",
     "title": "רציניקן החיים של יעקב אגמון",
     "author": "ירון פריד",
     "authorSex": "זכר",
@@ -26676,6 +27360,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "fcb92182-0972-4f34-9f42-fb8d81ce3602",
     "title": "שאול ויוהאנה - א",
     "author": "נעמי פרנקל",
     "authorSex": "נקבה",
@@ -26715,6 +27400,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "48b3031d-1800-4dd8-bc1d-2f75e2378d38",
     "title": "שאול ויוהנה",
     "author": "נעמי פרנקל",
     "authorSex": "נקבה",
@@ -26754,6 +27440,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "82b47229-94e9-48d8-8049-73af6ad48287",
     "title": "שבע נשים",
     "author": "דוד שיץ",
     "authorSex": "זכר",
@@ -26793,6 +27480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "629195dc-8c5c-41cd-a2cd-3e011a811cb1",
     "title": "שהכול יהיה בסדר",
     "author": "עליזה הרט",
     "authorSex": "נקבה",
@@ -26832,6 +27520,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "8eb44302-49cb-4a49-9fda-958f30d7f675",
     "title": "שובי נפשי",
     "author": "יהודית רותם",
     "authorSex": "נקבה",
@@ -26871,6 +27560,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "3bf38037-32ff-4d88-b98d-23021ed68396",
     "title": "שווים ושווים יותר",
     "author": "סמי מיכאל",
     "authorSex": "זכר",
@@ -26910,6 +27600,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "d4c1d5e3-57cd-407f-87dc-2be8638f22bb",
     "title": "שום גמדים לא יבואו",
     "author": "שרה שילה",
     "authorSex": "נקבה",
@@ -26949,6 +27640,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "a45a4cd8-3313-4ed2-90c9-2032a849e3ff",
     "title": "שום גמדים לא יבואו",
     "author": "שרה שילה",
     "authorSex": "נקבה",
@@ -26988,6 +27680,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "782098bb-069d-451f-9d3c-c3c72b41ab0c",
     "title": "שומרי הערים",
     "author": "רותם ברוכין",
     "authorSex": "נקבה",
@@ -27027,6 +27720,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "c9af78cb-64cc-4f6e-975e-15ed1b0f1890",
     "title": "שורשי אוויר",
     "author": "רות אלמוג",
     "authorSex": "נקבה",
@@ -27066,6 +27760,7 @@
     "grammaticalTense": "קשה להגדיר"
   },
   {
+    "id": "91e43460-9742-48b1-b76b-005d8cc456de",
     "title": "שוש",
     "author": "רונית ידעיה",
     "authorSex": "נקבה",
@@ -27105,6 +27800,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "327337fe-312d-43b0-86a3-0fd991671f61",
     "title": "שושבין",
     "author": "סביון ליברכט",
     "authorSex": "נקבה",
@@ -27144,6 +27840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "8f5b26b7-2670-451e-9eb7-e2823e572bed",
     "title": "שושן לבן, שושן אדום",
     "author": "דוד שיץ",
     "authorSex": "זכר",
@@ -27183,6 +27880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "4db97cdb-94fa-4a5e-8486-62c3019c25fa",
     "title": "שושן לבן, שושן אדום",
     "author": "דוד שיץ",
     "authorSex": "זכר",
@@ -27222,6 +27920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1f7072e8-9888-4c80-994a-bdca26481df9",
     "title": "שטוקהולם",
     "author": "נעה ידלין",
     "authorSex": "נקבה",
@@ -27261,6 +27960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "fd4d2fdb-709f-40a7-8be6-19cb3ea50712",
     "title": "שידה ושידות",
     "author": "רחל איתן",
     "authorSex": "נקבה",
@@ -27300,6 +28000,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "53a8c221-c041-40c9-afa8-2e12ea021b6d",
     "title": "שיעור בפרספקטיבה",
     "author": "מיכל שטייניץ",
     "authorSex": "נקבה",
@@ -27339,6 +28040,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "ab84ffe3-a76e-4717-834b-dec19ecbc618",
     "title": "שירה",
     "author": "עגנון",
     "authorSex": "זכר",
@@ -27378,6 +28080,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "bcfffe6c-0e32-4601-b2d3-a15702bd67b2",
     "title": "של מי אתה ילד",
     "author": "חנוך ברטוב",
     "authorSex": "זכר",
@@ -27417,6 +28120,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1b56fbf5-ef43-42a0-aafb-c50a068d5e56",
     "title": "שלום לך דודי",
     "author": "אסתר אטינגר",
     "authorSex": "נקבה",
@@ -27456,6 +28160,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "4fdf3b19-98f3-4e9e-b634-008a02b5fe3d",
     "title": "שלוש",
     "author": "דרור משעני",
     "authorSex": "זכר",
@@ -27495,6 +28200,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "4cd88ae4-2012-4f7a-a90e-4967c9db21b4",
     "title": "שלוש",
     "author": "דרור משעני",
     "authorSex": "זכר",
@@ -27534,6 +28240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "a0db0c29-d593-4273-92c8-53287ce67c74",
     "title": "שלוש קומות",
     "author": "אשכול נבו",
     "authorSex": "זכר",
@@ -27573,6 +28280,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "2bb84bf0-996e-4ecc-b050-51461cfe8a6a",
     "title": "שליחותו של הממונה על משאבי אנוש",
     "author": "אברהם ב. יהושע",
     "authorSex": "זכר",
@@ -27612,6 +28320,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "a2f887a0-a98e-4953-9c27-cb6a5e6430af",
     "title": "שליחותו של הממונה על משאבי אנוש",
     "author": "א.ב. יהושע",
     "authorSex": "זכר",
@@ -27651,6 +28360,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "3ae72a33-92b1-44ea-a842-85777dfef529",
     "title": "שם של התחלה",
     "author": "אופיר עוז",
     "authorSex": "זכר",
@@ -27690,6 +28400,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "bbbea6be-5120-41f6-88dc-52c42fdef6f8",
     "title": "שמחה גדולה בשמים",
     "author": "אמונה אלון",
     "authorSex": "נקבה",
@@ -27729,6 +28440,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "b48e8fd9-267d-4584-a57e-909c1b0a2c5d",
     "title": "שמיטה",
     "author": "אסתי הלפרין-מימון",
     "authorSex": "נקבה",
@@ -27768,6 +28480,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "c09d00bc-924a-42cf-b0e4-7b3391c4e74d",
     "title": "שמיטה",
     "author": "אסתי הלפרין מימון",
     "authorSex": "נקבה",
@@ -27807,6 +28520,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "a42ebc15-304e-4d4f-94a8-d8478791a7e1",
     "title": "שמיטה",
     "author": "אסתי הלפרין",
     "authorSex": "נקבה",
@@ -27846,6 +28560,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "cf94a882-f5e4-495b-92ec-f2395f46a18d",
     "title": "שמיטה",
     "author": "אסתי הלפרין מימון",
     "authorSex": "נקבה",
@@ -27885,6 +28600,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "79a1c7ab-023e-4922-b7cf-0f79d9a8a3a7",
     "title": "שנות העשרים",
     "author": "יערה שחורי",
     "authorSex": "נקבה",
@@ -27924,6 +28640,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "119f575b-d366-44de-8111-cf70adc839b7",
     "title": "שנות העשרים",
     "author": "יערה שחורי",
     "authorSex": "נקבה",
@@ -27963,6 +28680,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "76df3555-01ce-44a5-bb36-5c4981d0b620",
     "title": "שני חיי יעקב",
     "author": "יעקב בוצ׳ן",
     "authorSex": "זכר",
@@ -28002,6 +28720,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "09ee60ef-3ea8-4c73-8af5-c7caaab7f84b",
     "title": "שפילפוגל , שפילפוגל",
     "author": "מתן חרמוני",
     "authorSex": "זכר",
@@ -28041,6 +28760,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "2f09edae-e7f8-4d49-96da-1361350e43a4",
     "title": "שפילפוגל שפילפוגל",
     "author": "מתן חרמוני",
     "authorSex": "זכר",
@@ -28080,6 +28800,7 @@
     "grammaticalTense": ""
   },
   {
+    "id": "a2c531fb-8f97-47c5-ae47-9b60cf7112d3",
     "title": "שפילפוגל שפילפוגל",
     "author": "מתן חרמוני",
     "authorSex": "זכר",
@@ -28119,6 +28840,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "88f8f635-fe96-449a-8315-5a030ba625f0",
     "title": "שפילפוגל, שפילפוגל",
     "author": "מתן חרמוני",
     "authorSex": "זכר",
@@ -28158,6 +28880,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "15d7fe12-9708-4a03-9277-a4535eb21fb1",
     "title": "שתיים דובים",
     "author": "מאיר שליו",
     "authorSex": "זכר",
@@ -28197,6 +28920,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "4a8da7b3-f5b5-4800-a53f-5a798e1af79e",
     "title": "שתיים דובים",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -28236,6 +28960,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "7ec0fc4b-f408-40cc-8513-8a8e0766f991",
     "title": "שתיים דובים",
     "author": "מאיר שלו",
     "authorSex": "זכר",
@@ -28275,6 +29000,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "25dbae03-1bd3-4c96-a047-3a3317f3d40a",
     "title": "שתיקה פרסית",
     "author": "שרה אהרוני",
     "authorSex": "נקבה",
@@ -28314,6 +29040,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "33181434-fec6-43af-88dd-859663a86f3c",
     "title": "שתיקת הצמחים",
     "author": "לבנה מושון",
     "authorSex": "נקבה",
@@ -28353,6 +29080,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "c6b225bc-b808-41c8-9f7f-ced44c7bd97c",
     "title": "שתיקת הצמחים",
     "author": "לבנה מושון",
     "authorSex": "נקבה",
@@ -28392,6 +29120,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "c72d067a-a1a1-4d40-afcf-256ed755fc60",
     "title": "תוחלת החיים של האהבה",
     "author": "ינץ לוי",
     "authorSex": "זכר",
@@ -28431,6 +29160,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "1a84d1c8-ccea-41c8-9e9e-111f6e59b932",
     "title": "תור הפלאות",
     "author": "אהרן אפלפלד",
     "authorSex": "זכר",
@@ -28470,6 +29200,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "4702222d-1692-4e51-8633-41b3eaf22776",
     "title": "תורת הקבוצות",
     "author": "כרמית סחר",
     "authorSex": "נקבה",
@@ -28509,6 +29240,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "4368ef52-17b1-4ac5-9ccc-956e0fc8e155",
     "title": "תושבי חדר הילדים",
     "author": "גון בן-ארי",
     "authorSex": "זכר",
@@ -28548,6 +29280,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "bb6d057d-5e25-40f3-89c5-e42f2269710a",
     "title": "תיאום כוונות",
     "author": "חיים סבתו",
     "authorSex": "זכר",
@@ -28587,6 +29320,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "ce556109-45c1-466b-ab2e-c004305124b0",
     "title": "תיאום כוונות",
     "author": "חיים סבתו",
     "authorSex": "זכר",
@@ -28626,6 +29360,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "d2fd11f3-8c51-4e54-90b7-5d44d91ba407",
     "title": "תיאום כוונות",
     "author": "חיים סבתו",
     "authorSex": "זכר",
@@ -28665,6 +29400,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "64bdac4c-10aa-43aa-85dd-60b9baba4eee",
     "title": "תיאום כוונות",
     "author": "חיים סבתו",
     "authorSex": "זכר",
@@ -28704,6 +29440,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "cf3a8864-7735-4c1f-9889-0e2a88c45540",
     "title": "תימהון",
     "author": "אהרן אפלפלד",
     "authorSex": "זכר",
@@ -28743,6 +29480,7 @@
     "grammaticalTense": "עבר"
   },
   {
+    "id": "49880e56-05c1-42ff-91ea-e75b8ff9c009",
     "title": "תיק איה",
     "author": "נילי אסיא",
     "authorSex": "נקבה",
@@ -28782,6 +29520,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "95e910b7-ac89-4eb4-8e07-3864aaec9580",
     "title": "תיקון אחר חצות",
     "author": "יניב איצקוביץ'",
     "authorSex": "זכר",
@@ -28821,6 +29560,7 @@
     "grammaticalTense": "זמנים דקדוקיים מעורבים"
   },
   {
+    "id": "4d57652e-5aa9-4510-9da0-95fd74692ad7",
     "title": "תיקון אחר חצות",
     "author": "יניב איצקוביץ'",
     "authorSex": "זכר",
@@ -28860,6 +29600,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "1e9fee03-f7b9-4f6e-a1af-64f199286e60",
     "title": "תיקון אחר חצות",
     "author": "יניב איציקוביץ׳",
     "authorSex": "זכר",
@@ -28899,6 +29640,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "7db0b5a7-7aa5-43a1-a967-efd22bbb5b26",
     "title": "תל אביב מזרח",
     "author": "שמעון בלס",
     "authorSex": "זכר",
@@ -28938,6 +29680,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "0beae8ca-fb18-48ad-aa2e-26ad40074b4e",
     "title": "תעתועי שכחה",
     "author": "שולמית לוין",
     "authorSex": "נקבה",
@@ -28977,6 +29720,7 @@
     "grammaticalTense": "קשה להגדיר"
   },
   {
+    "id": "ba5d0c5a-3bb5-4ce3-b99c-78d38eaf3947",
     "title": "תרה",
     "author": "צרויה שלו",
     "authorSex": "נקבה",
@@ -29016,6 +29760,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "a8ef64f7-9f03-4c69-be4a-2aa733deb2c2",
     "title": "תרה",
     "author": "צרויה שלו",
     "authorSex": "נקבה",
@@ -29055,6 +29800,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "eddab4a8-1892-4285-a93a-ec6c6f2999a1",
     "title": "תרנגול כפרות",
     "author": "אלי עמיר",
     "authorSex": "זכר",
@@ -29094,6 +29840,7 @@
     "grammaticalTense": "הווה"
   },
   {
+    "id": "39f62f9f-6211-4687-8db6-d974965c8baf",
     "title": "תשאלי",
     "author": "לאה איני",
     "authorSex": "נקבה",
