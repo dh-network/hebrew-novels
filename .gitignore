@@ -24,5 +24,5 @@ yarn-error.log*
 
 public/novels.json
 public/readings.json
-src/novels.json
-src/readings.json
+# src/novels.json
+# src/readings.json

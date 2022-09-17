@@ -12,6 +12,7 @@ export interface Novel {
 
 export interface Reading {
   id: string;
+  nliId: string;
   title: string;
   author: string;
   authorSex: string;

@@ -1,5 +1,5 @@
 export const novelFields = [
-  ['001', 'nliId'],
+  ['001', 'id'],
   ['Author', 'author'],
   ['lifetime', 'authorLifetime'],
   [' Title', 'nliTitle'],
@@ -11,7 +11,9 @@ export const novelFields = [
 ];
 
 export const readingFields = [
-  ['  ', 'title'],
+  ['Identifier', 'id'],
+  ['NLI 1', 'nliId'],
+  ['Title', 'title'],
   ['Name of Author', 'author'],
   ['Sex of Author', 'authorSex'],
   ['Year of Publication', 'publicationYear'],
