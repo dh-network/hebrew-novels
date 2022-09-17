@@ -13,11 +13,11 @@ export default function Novels () {
       </Helmet>
       <section>
         <h1>Novels</h1>
-        <ul dir="rtl">
+        <ol dir="rtl">
           {novels.map(novel => (
             <li key={novel.id}><Link to={novel.id}>{novel.title}</Link></li>
           ))}
-      </ul>
+      </ol>
       </section>
     </div>
   );

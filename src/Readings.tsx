@@ -13,11 +13,11 @@ export default function Readings () {
       </Helmet>
       <section>
         <h1>Readings</h1>
-        <ul dir="rtl">
+        <ol dir="rtl">
           {readings.map(reading => (
             <li key={reading.id}><Link to={reading.id}>{reading.title}</Link></li>
           ))}
-        </ul>
+        </ol>
       </section>
     </div>
   );

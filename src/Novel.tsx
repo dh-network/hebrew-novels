@@ -8,7 +8,6 @@ export default function Novel () {
   const { novels } = useContext(NovelsContext);
 
   const novel = novels.find(n => n.id === id);
-  type NovelKey = keyof typeof novel;
 
   return (
     <div>

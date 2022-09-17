@@ -8,6 +8,7 @@ export default function Topnav () {
         <li><Link to="/novels">Novels</Link></li>
         <li><Link to="/readings">Readings</Link></li>
       </ul>
+      <hr/>
     </nav>
   );
 }

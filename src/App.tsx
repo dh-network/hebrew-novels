@@ -10,16 +10,18 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
-      <Topnav/>
-      <Routes>
-        <Route path="/" element={<Home/>} />
-        <Route path="/novels" element={<Novels/>} />
-        <Route path="/novels/:id" element={<Novel/>} />
-        <Route path="/readings" element={<Readings/>} />
-        <Route path="/readings/:id" element={<Reading/>} />
-      </Routes>
-    </BrowserRouter>
+    <div style={{padding: '20px'}}>
+      <BrowserRouter>
+        <Topnav/>
+        <Routes>
+          <Route path="/" element={<Home/>} />
+          <Route path="/novels" element={<Novels/>} />
+          <Route path="/novels/:id" element={<Novel/>} />
+          <Route path="/readings" element={<Readings/>} />
+          <Route path="/readings/:id" element={<Reading/>} />
+        </Routes>
+      </BrowserRouter>
+    </div>
   );
 }
 
