@@ -20,6 +20,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+    "json": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' csv2json.ts",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
