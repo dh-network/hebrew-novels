@@ -24,10 +24,10 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "json": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' csv2json.ts",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "json": "ts-node -O '{\"isolatedModules\":false,\"module\":\"CommonJS\"}' csv2json.ts && cp public/{novels,readings}.json src/",
+    "start": "yarn json && react-scripts start",
+    "build": "yarn json && react-scripts build",
+    "test": "yarn json && react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

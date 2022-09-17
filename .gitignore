@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+public/novels.json
+public/readings.json
+src/novels.json
+src/readings.json
