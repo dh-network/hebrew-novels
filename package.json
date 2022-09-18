@@ -5,6 +5,7 @@
   "repository": "https://github.com/dh-network/hebrew-novels",
   "homepage": "https://dh-network.github.io/hebrew-novels/",
   "dependencies": {
+    "@tanstack/react-table": "^8.5.13",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
