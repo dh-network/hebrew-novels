@@ -5,6 +5,7 @@
 @layer base {
   h1 {
     @apply text-2xl;
+    @apply mb-2;
   }
   h2 {
     @apply text-xl;
@@ -29,4 +30,16 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+table.table {
+  direction: rtl;
+}
+
+table.table th {
+  text-align: right;
+}
+
+table td, table th {
+  padding-right: 5px;
 }

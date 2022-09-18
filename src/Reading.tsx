@@ -48,14 +48,13 @@ export default function Reading () {
 
   const reading = readings.find(r => r.id === id);
   type ReadingKey = keyof typeof reading;
-  // console.log(reading);
 
   return (
     <div>
       <Helmet>
         <title>Reading: {id}</title>
       </Helmet>
-      <section>
+      <section dir="rtl">
         <h1>{reading?.author}: {reading?.title}</h1>
         <table dir="rtl">
           <tbody>
