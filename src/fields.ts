@@ -6,8 +6,7 @@ export const novelFields = [
   ['Publication Year', 'publicationYear'],
   ['Number of Pages', 'numPages'],
   ['press', 'publisher'],
-  ['Genre ID unclear', 'unclearGenre'],
-  ['Extracted Book Name', 'title'],
+  ['Extracted book names', 'title'],
 ];
 
 export const readingFields = [

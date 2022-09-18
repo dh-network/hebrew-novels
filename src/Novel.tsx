@@ -31,10 +31,6 @@ export default function Novel () {
               <td>{novel?.numPages}</td>
             </tr>
             <tr>
-              <th align="right">NLI ID</th>
-              <td>{novel?.nliId}</td>
-            </tr>
-            <tr>
               <th align="right">ID</th>
               <td>{novel?.id}</td>
             </tr>
