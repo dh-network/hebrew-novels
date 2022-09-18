@@ -11,7 +11,7 @@ import './App.css';
 function App() {
   return (
     <div style={{padding: '20px'}}>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Topnav/>
         <Routes>
           <Route path="/" element={<Home/>} />

@@ -1,5 +1,7 @@
 # Database of Hebrew Novels
 
+https://dh-network.github.io/hebrew-novels/
+
 ## Development
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -30,3 +32,7 @@ Your app is ready to be deployed!
 ### `yarn json`
 
 Creates JSON files `novels.json` and `readings.json` from CSV sources.
+
+### `yarn deploy`
+
+Builds the app and deploys it to https://dh-network.github.io/hebrew-novels/.
