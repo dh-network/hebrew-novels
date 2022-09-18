@@ -15,7 +15,15 @@ export default function Readings () {
         <h1>Readings</h1>
         <ol dir="rtl">
           {readings.map(reading => (
-            <li key={reading.id}><Link to={reading.id}>{reading.title}</Link></li>
+            <li key={reading.id}>
+              <Link to={reading.id}>{reading.title}</Link>
+              {reading.nliId && (
+                <>
+                  {' ('}
+                  <Link to={`/novels/${reading.nliId}`}>{reading.nliId}</Link>)
+                </>
+              )}
+            </li>
           ))}
         </ol>
       </section>
