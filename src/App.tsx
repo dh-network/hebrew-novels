@@ -10,9 +10,9 @@ import './App.css';
 
 function App() {
   return (
-    <div style={{padding: '20px'}}>
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
-        <Topnav/>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <Topnav/>
+      <div className="p-3 sm:px-6 lg:px-8">
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/novels" element={<Novels/>} />
@@ -20,8 +20,8 @@ function App() {
           <Route path="/readings" element={<Readings/>} />
           <Route path="/readings/:id" element={<Reading/>} />
         </Routes>
-      </BrowserRouter>
-    </div>
+      </div>
+    </BrowserRouter>
   );
 }
 
