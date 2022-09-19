@@ -1,24 +1,14 @@
-import {useContext} from 'react';
-import {Helmet} from 'react-helmet';
+import {useContext, useMemo} from 'react';
 import {Link} from 'react-router-dom';
-import BootstrapTable from 'react-bootstrap-table-next';
-import ToolkitProvider from 'react-bootstrap-table2-toolkit';
+import {Helmet} from 'react-helmet';
+import {
+  ColumnDef,
+  flexRender,
+  getCoreRowModel,
+  useReactTable,
+} from '@tanstack/react-table';
 import {NovelsContext} from './context';
 import { Reading } from './types';
-
-function formatTitle (_: string, reading: Reading) {
-  const {title, id} = reading;
-  return (
-    <Link className="text-lg" to={id}>{title}</Link>
-  );
-}
-
-function formatNliId (_: string, reading: Reading) {
-  const {nliId} = reading;
-  return (
-    <Link to={`/novels/${nliId}`}>{nliId}</Link>
-  );
-}
 
 export default function Readings () {
   const {readings} = useContext(NovelsContext);
@@ -27,29 +17,47 @@ export default function Readings () {
     return {...n};
   });
 
-  const columns = [{
-    dataField: 'title',
-    text: 'Title',
-    formatter: formatTitle,
-    sort: true,
-  }, {
-    dataField: 'author',
-    text: 'Author',
-    sort: true,
-  }, {
-    dataField: 'publisher',
-    text: 'Publisher',
-    sort: true,
-  }, {
-    dataField: 'publicationYear',
-    text: 'Year',
-    sort: true,
-  }, {
-    dataField: 'nliId',
-    text: 'NLI ID',
-    formatter: formatNliId,
-    sort: false,
-  }];
+  const columns = useMemo<ColumnDef<Reading>[]>(
+    () => [
+      {
+        accessorKey: 'title',
+        header: 'Title',
+        cell: info => (
+          <Link className="text-lg" to={info.row.original.id}>
+            {`${info.getValue()}`}
+          </Link>
+        ),
+      },
+      {
+        accessorKey: 'author',
+        header: 'Author',
+      },
+      {
+        accessorKey: 'publisher',
+        header: 'Publisher',
+      },
+      {
+        accessorKey: 'publicationYear',
+        header: 'Year',
+      },
+      {
+        accessorKey: 'nliId',
+        header: 'NLI ID',
+        cell: info => (
+          <Link to={`/novels/${info.getValue()}`}>
+            {`${info.getValue()}`}
+          </Link>
+        ),
+      },
+    ],
+    []
+  );
+
+  const table = useReactTable({
+    data,
+    columns,
+    getCoreRowModel: getCoreRowModel(),
+  });
 
   return (
     <div>
@@ -58,17 +66,35 @@ export default function Readings () {
       </Helmet>
       <section>
         <h1>Readings</h1>
-
-        <BootstrapTable
-          bootstrap4
-          keyField="id"
-          columns={columns}
-          data={data}
-          defaultSorted={[
-            { dataField: 'title', order: 'asc' }
-          ]}
-          defaultSortDirection="asc"
-        />
+        <table dir="rtl">
+          <thead className=" text-gray-700 bg-gray-50">
+            {table.getHeaderGroups().map(headerGroup => (
+              <tr key={headerGroup.id}>
+                {headerGroup.headers.map(header => (
+                  <th key={header.id} className="py-3 px-2 text-right">
+                    {header.isPlaceholder
+                      ? null
+                      : flexRender(
+                          header.column.columnDef.header,
+                          header.getContext()
+                        )}
+                  </th>
+                ))}
+              </tr>
+            ))}
+          </thead>
+          <tbody>
+            {table.getRowModel().rows.map(row => (
+              <tr key={row.id} className="bg-white border-b">
+                {row.getVisibleCells().map(cell => (
+                  <td key={cell.id} className="py-1 px-2">
+                    {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                  </td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
       </section>
     </div>
   );
