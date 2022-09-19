@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hebrew-novels/static/css/main.4c2f69e6.css",
-    "main.js": "/hebrew-novels/static/js/main.fc5df18f.js",
+    "main.css": "/hebrew-novels/static/css/main.162a9de6.css",
+    "main.js": "/hebrew-novels/static/js/main.ef86da13.js",
     "static/js/787.4320f855.chunk.js": "/hebrew-novels/static/js/787.4320f855.chunk.js",
     "index.html": "/hebrew-novels/index.html",
-    "main.4c2f69e6.css.map": "/hebrew-novels/static/css/main.4c2f69e6.css.map",
-    "main.fc5df18f.js.map": "/hebrew-novels/static/js/main.fc5df18f.js.map",
+    "main.162a9de6.css.map": "/hebrew-novels/static/css/main.162a9de6.css.map",
+    "main.ef86da13.js.map": "/hebrew-novels/static/js/main.ef86da13.js.map",
     "787.4320f855.chunk.js.map": "/hebrew-novels/static/js/787.4320f855.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c2f69e6.css",
-    "static/js/main.fc5df18f.js"
+    "static/css/main.162a9de6.css",
+    "static/js/main.ef86da13.js"
   ]
 }
