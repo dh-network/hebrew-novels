@@ -8,6 +8,9 @@ export default function Home () {
       </Helmet>
       <section>
         <h1>Welcome</h1>
+        <p>
+          Brief project description to be added here.
+        </p>
       </section>
     </div>
   );
