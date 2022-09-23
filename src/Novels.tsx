@@ -5,15 +5,18 @@ import {
   ColumnDef,
   flexRender,
   getCoreRowModel,
+  getFilteredRowModel,
   getSortedRowModel,
   SortingState,
   useReactTable,
 } from '@tanstack/react-table';
 import {NovelsContext} from './context';
 import {Novel} from './types';
+import DebouncedInput from './DebouncedInput';
 
 export default function Novels () {
-  const [sorting, setSorting] = useState<SortingState>([])
+  const [sorting, setSorting] = useState<SortingState>([]);
+  const [globalFilter, setGlobalFilter] = useState('');
 
   const {novels} = useContext(NovelsContext);
   const [data] = useState<Novel[]>([...novels]);
@@ -54,10 +57,13 @@ export default function Novels () {
     columns,
     state: {
       sorting,
+      globalFilter,
     },
     onSortingChange: setSorting,
+    onGlobalFilterChange: setGlobalFilter,
     getCoreRowModel: getCoreRowModel(),
     getSortedRowModel: getSortedRowModel(),
+    getFilteredRowModel: getFilteredRowModel(),
     debugTable: true,
   });
 
@@ -68,7 +74,20 @@ export default function Novels () {
       </Helmet>
       <section>
         <h1>Novels</h1>
-        <table dir="rtl">
+        <div dir="rtl" className="mb-2">
+          <DebouncedInput
+            value={globalFilter ?? ''}
+            onChange={value => setGlobalFilter(String(value))}
+            className="p-1"
+            placeholder="Search all columns..."
+          />
+          <span className="mr-2" dir="ltr">
+            {globalFilter === '' ? (table.getRowModel().rows.length) : (
+              `${table.getRowModel().rows.length} of ${data.length}`
+            )}
+          </span>
+        </div>
+        <table dir="rtl" className="w-full">
           <thead className=" text-gray-700 bg-gray-50">
             {table.getHeaderGroups().map(headerGroup => (
               <tr key={headerGroup.id}>
