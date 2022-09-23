@@ -48,6 +48,13 @@ export default function Novels () {
         accessorKey: 'numPages',
         header: 'Pages',
       },
+      {
+        accessorKey: 'numReadings',
+        header: 'Readings',
+        // global filter throws "TypeError: l.toLowerCase is not a function"
+        // unless filtering is disabled
+        enableGlobalFilter: false,
+      },
     ],
     []
   );

@@ -4,10 +4,9 @@ export interface Novel {
   author?: string;
   authorLifetime?: string;
   title?: string;
-  origTitle?: string;
   publisher?: string;
   numPages?: string;
-  unclearGenre?: string;
+  numReadings?: number;
 }
 
 export interface Reading {

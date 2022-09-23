@@ -9,7 +9,12 @@ interface Context {
 }
 
 const context = {
-  novels: novels as Novel[],
+  novels: novels.map((n) => {
+    return {
+      ...n,
+      numReadings: readings.filter(r => r.nliId === n.id).length
+    }
+  }),
   readings: readings as Reading[],
 };
 
